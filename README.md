@@ -1,624 +1,382 @@
 <div align="center">
 
-<img src="./background.jpg" width="100%" alt="Cyberpunk digital network background"/>
+# `DINESH BABU M`
 
-# <font color="#00F7FF">⚡ DINESH BABU M ⚡</font>
+### `CLOUD ENGINEER  //  FULL STACK DEVELOPER  //  DATA ENGINEER`
 
-### <font color="#39FF14">FULL STACK DEVELOPER</font>
-### <font color="#8B5CF6">CLOUD ENGINEER</font>
+<img src="./assets/hero-cyber.png" width="100%" alt="Cyberpunk developer interface"/>
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║     ██████╗ ██╗███╗   ██╗███████╗███████╗██╗  ██╗               ║
-║     ██╔══██╗██║████╗  ██║██╔════╝██╔════╝██║  ██║               ║
-║     ██║  ██║██║██╔██╗ ██║█████╗  █████╗  ███████║               ║
-║     ██║  ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██║               ║
-║     ██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║               ║
-║     ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝               ║
-║                                                                    ║
-║              [ SYSTEM ONLINE ] [ ACCESS GRANTED ]                ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%3E+CLOUD+ENGINEER;%3E+FULL_STACK_DEVELOPER;%3E+DATA_ENGINEER;%3E+PYTHON+%7C+SQL+%7C+AWS+%7C+LINUX;%3E+BUILD+%2F%2F+AUTOMATE+%2F%2F+DEPLOY" alt="Animated terminal introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=50&lines=%5B+SYSTEM+ONLINE+%5D;%3E+FULL_STACK_DEVELOPER;%3E+CLOUD_ENGINEER;%3E+PYTHON+%7C+SQL+%7C+AWS+%7C+LINUX;%3E+BUILD+%2F%2F+AUTOMATE+%2F%2F+DEPLOY" alt="Terminal animation"/>
-
-<br>
+<br/>
 
 <a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505" alt="Projects"/>
 </a>
-
+&nbsp;
 <a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🟢 `01 // SYSTEM IDENTITY`
-
-<table>
-<tr>
-<td>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM IDENTITY                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER       :: DINESH_BABU_M                                │
-│  ROLE       :: FULL_STACK_DEVELOPER                         │
-│  SPECIALTY  :: CLOUD_ENGINEERING                            │
-│  LOCATION   :: THENI // TAMIL NADU // INDIA                 │
-│  SIGNAL     :: WEB + DATA + CLOUD + AUTOMATION              │
-│  STATUS     :: ● ONLINE                                     │
-│  ACCESS     :: PUBLIC                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<table>
-<tr>
-<td>
-
-## <font color="#00F7FF">`> whoami`</font>
-
-I am **Dinesh Babu M**, a Full Stack Developer and Cloud Engineer focused on building practical applications, automation workflows, data systems and cloud solutions.
-
-My primary technical areas include:
-
-**Python · SQL · AWS · Linux · Web Development · Databases · Automation**
-
-I enjoy working across the complete development flow — from application logic and databases to cloud infrastructure and Linux operations.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="./background.jpg" width="100%" alt="Cyberpunk network background"/>
-
-# 🔥 `02 // CORE TECHNOLOGY`
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-### 🐍 PYTHON
-
-<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=000&labelColor=050505"/>
-
-`BeautifulSoup` · `Pandas` · `Requests`
-
-</td>
-
-<td align="center">
-
-### 🗄️ DATABASE
-
-<img src="https://img.shields.io/badge/DATABASE-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=050505"/>
-
-`MySQL` · `PostgreSQL` · `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ☁️ CLOUD
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000&labelColor=050505"/>
-
-`EC2` · `S3`
-
-</td>
-
-<td align="center">
-
-### 🐧 SYSTEM
-
-<img src="https://img.shields.io/badge/LINUX-39FF14?style=for-the-badge&logo=linux&logoColor=000&labelColor=050505"/>
-
-`cron` · `logs` · `monitoring`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🔧 TOOLS
-
-<img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=fff&labelColor=050505"/>
-
-`Git` · `JIRA` · `Postman`
-
-</td>
-
-<td align="center">
-
-### ⚡ AUTOMATION
-
-<img src="https://img.shields.io/badge/AUTOMATION-EC4899?style=for-the-badge&logo=githubactions&logoColor=fff&labelColor=050505"/>
-
-`Python` · `Shell` · `cron`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+## `01 // IDENTITY`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                       TECH MATRIX                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PYTHON       ████████████████████████████░░  ACTIVE        ║
-║  SQL          ██████████████████████████░░░░  ACTIVE        ║
-║  AWS          ████████████████████████░░░░░░  ACTIVE        ║
-║  LINUX        ███████████████████████░░░░░░░  ACTIVE        ║
-║  AUTOMATION   █████████████████████████░░░░░  ACTIVE        ║
-║                                                              ║
+║  USER       :: DINESH BABU M                                ║
+║  CLASS      :: CLOUD / FULL STACK / DATA                    ║
+║  PRIMARY    :: PYTHON • SQL • AWS • LINUX                   ║
+║  DATABASE   :: MYSQL • POSTGRESQL • MONGODB                 ║
+║  DOMAIN     :: AUTOMATION • DATA • CLOUD • WEB              ║
+║  MODE       :: BUILDING                                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+I build and support systems across **cloud operations, software development,
+data processing and automation**.
+
+My core working stack is **Python, SQL, AWS and Linux**, with experience in
+database development, data validation, scheduled automation, cloud operations,
+monitoring and troubleshooting.
+
+---
+
+## `02 // LOADOUT`
+
+<div align="center">
+
+| `CYBER CORE` | `STACK` |
+|:---|:---|
+| 🐍 **PROGRAMMING** | Python · SQL · Shell |
+| 🗄️ **DATA** | MySQL · PostgreSQL · MongoDB |
+| ☁️ **CLOUD** | AWS EC2 · AWS S3 |
+| 🖥️ **SYSTEM** | Linux · Cron · Logs · Monitoring |
+| 🌐 **WEB** | React · Laravel · HTML · CSS |
+| 🔧 **TOOLS** | Git · Postman · JIRA · Excel |
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🧬 `03 // SYSTEM FLOW`
-
-<table>
-<tr>
-<td align="center">
+## `03 // CLOUD OPS`
 
 ```text
-                       ┌──────────────┐
-                       │     USER     │
-                       └──────┬───────┘
-                              │
-                              ▼
-                  ┌───────────────────────┐
-                  │     WEB / APP         │
-                  └───────────┬───────────┘
-                              │
-                              ▼
-                  ┌───────────────────────┐
-                  │   APPLICATION LOGIC   │
-                  │        PYTHON         │
-                  └───────────┬───────────┘
+                    ┌────────────────────┐
+                    │     CLOUD CORE     │
+                    └─────────┬──────────┘
                               │
                  ┌────────────┴────────────┐
-                 │                         │
                  ▼                         ▼
-          ┌──────────────┐          ┌──────────────┐
-          │     SQL      │          │  AUTOMATION  │
-          │     DATA     │          │   WORKFLOW   │
-          └──────┬───────┘          └──────┬───────┘
+          ┌─────────────┐           ┌─────────────┐
+          │    AWS EC2  │           │    AWS S3   │
+          │  COMPUTE    │           │    DATA     │
+          └──────┬──────┘           └──────┬──────┘
                  │                         │
                  └────────────┬────────────┘
-                              │
                               ▼
-                  ┌───────────────────────┐
-                  │       AWS CLOUD       │
-                  │       EC2 + S3        │
-                  └───────────┬───────────┘
-                              │
-                              ▼
-                  ┌───────────────────────┐
-                  │    LINUX OPERATIONS   │
-                  │ LOGS • CRON • MONITOR │
-                  └───────────────────────┘
+                    ┌────────────────────┐
+                    │       LINUX        │
+                    │ CRON • LOGS • OPS  │
+                    └────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+### `OPERATIONS`
+
+- AWS EC2 instance management
+- AWS S3 client-data delivery
+- Linux system checks
+- Cron scheduling
+- Log monitoring
+- Uptime checks
+- Automation execution
+- Production troubleshooting
+
+---
+
+## `04 // DATA ENGINE`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=050505&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PANDAS-22C55E?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MONGODB-22C55E?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=050505"/>
 
 </div>
+
+```text
+SOURCE
+  │
+  ▼
+┌──────────────┐
+│   EXTRACT    │  Python / SQL
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│   VALIDATE   │  Data Quality
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│  TRANSFORM   │  Python / SQL
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│     LOAD     │  MySQL / PostgreSQL
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│   REPORT     │  Verify / Monitor
+└──────────────┘
+```
+
+### `DATA WORK`
+
+`SQL QUERIES` · `STORED PROCEDURES` · `DATA EXTRACTION` · `VALIDATION`
+· `TRANSFORMATION` · `REPORTING` · `PIPELINE OUTPUT CHECKS`
+
+---
+
+## `05 // FULL STACK`
+
+```text
+                    FULL STACK MODE
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+        ┌──────────┐             ┌──────────┐
+        │ FRONTEND │             │ BACKEND  │
+        ├──────────┤             ├──────────┤
+        │ React    │             │ Python   │
+        │ HTML     │             │ Laravel  │
+        │ CSS      │             │ REST API │
+        └────┬─────┘             └────┬─────┘
+             │                        │
+             └──────────┬─────────────┘
+                        ▼
+                 ┌─────────────┐
+                 │    DATA     │
+                 │ SQL / NoSQL │
+                 └─────────────┘
+```
+
+Development exposure includes React-based application work, Laravel
+application structure, frontend tooling and database-backed workflows.
+
+---
+
+## `06 // AUTOMATION CORE`
+
+```text
+┌─────────────┐
+│   MANUAL    │
+│    TASK     │
+└──────┬──────┘
+       ▼
+┌─────────────┐
+│   PYTHON    │
+│   SCRIPT    │
+└──────┬──────┘
+       ▼
+┌─────────────┐
+│   SCHEDULE   │
+│    CRON      │
+└──────┬──────┘
+       ▼
+┌─────────────┐
+│    CLOUD     │
+│   AWS / EC2  │
+└──────┬──────┘
+       ▼
+┌─────────────┐
+│   MONITOR    │
+│ LOGS / CHECK │
+└──────┬──────┘
+       ▼
+┌─────────────┐
+│   VALIDATE   │
+│    OUTPUT    │
+└─────────────┘
+```
+
+**Automation mindset:** remove repetitive work, schedule reliable execution,
+validate the result, and monitor the system.
+
+---
+
+## `07 // PROJECT VAULT`
+
+### `01` — AI English Speaking Tutor
+
+**Stack:** React · TailwindCSS / Chakra UI · Web Speech API · OpenAI Whisper
+· OpenAI GPT · Redux Toolkit
+
+AI-assisted English speaking platform focused on speech practice,
+pronunciation feedback, vocabulary support, accent training and progress
+tracking.
+
+**[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/hero_learning-platform)**
+
+---
+
+### `02` — HR Application
+
+**Stack:** Laravel · PHP · Vite · TailwindCSS
+
+Laravel application repository containing application, database, routing,
+testing and frontend configuration.
+
+**[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/hr-project)**
+
+---
+
+### `03` — Portfolio
+
+**Stack:** JavaScript
+
+Personal portfolio and web-development repository.
+
+**[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/Portfolio)**
+
+---
+
+### `04` — My Portfolio
+
+**Stack:** CSS
+
+Portfolio-oriented frontend repository.
+
+**[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/my-portfolio)**
 
 ---
 
 <div align="center">
-
-<img src="./background.jpg" width="100%" alt="Cyberpunk digital background"/>
-
-# 🚀 `04 // PROJECT VAULT`
-
-</div>
-
-<table>
-<tr>
-<td>
-
-## 🟦 `01` — `hero_learning-platform`
-
-### AI ENGLISH SPEAKING TUTOR
-
-An AI English speaking platform designed around real-time speaking practice, pronunciation feedback, vocabulary support, accent training and progress tracking.
-
-```text
-FRONTEND    :: REACT
-UI          :: TAILWINDCSS / CHAKRA UI
-SPEECH      :: WEB SPEECH API / WHISPER
-AI          :: OPENAI / NLP
-STATE       :: REDUX / CONTEXT
-```
-
-<a href="https://github.com/Dinesh-babu-M/hero_learning-platform">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🟪 `02` — `hr-project`
-
-### LARAVEL APPLICATION
-
-Laravel application repository containing application, database, routing, resources, storage and testing structure.
-
-```text
-FRAMEWORK   :: LARAVEL
-LANGUAGE    :: PHP
-BUILD       :: VITE
-STYLE       :: TAILWINDCSS
-PACKAGE     :: COMPOSER
-```
-
-<a href="https://github.com/Dinesh-babu-M/hr-project">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🟩 `03` — `Portfolio`
-
-### JAVASCRIPT PORTFOLIO
-
-Public JavaScript portfolio repository.
-
-```text
-STACK       :: JAVASCRIPT
-TYPE        :: PORTFOLIO
-STATUS      :: PUBLIC
-```
-
-<a href="https://github.com/Dinesh-babu-M/Portfolio">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-39FF14?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🟧 `04` — `my-portfolio`
-
-### CSS PORTFOLIO
-
-Public CSS portfolio repository.
-
-```text
-STACK       :: CSS
-TYPE        :: PORTFOLIO
-STATUS      :: PUBLIC
-```
-
-<a href="https://github.com/Dinesh-babu-M/my-portfolio">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-F97316?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🟥 `05` — `ied_project`
-
-### IED PROJECT
-
-Public repository available in the GitHub profile.
-
-```text
-STATUS      :: PUBLIC
-ACCESS      :: OPEN
-```
-
-<a href="https://github.com/Dinesh-babu-M/ied_project">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🎓 `05 // EDUCATION NODE`
-
-<table>
-<tr>
-<td>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    EDUCATION DATABASE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  INSTITUTION :: AMBAL PROFESSIONAL GROUP OF INSTITUTIONS    ║
-║                                                              ║
-║  DEGREE      :: B.E - EEE                                   ║
-║                                                              ║
-║  PERIOD      :: 2017 — 2021                                 ║
-║                                                              ║
-║  CGPA        :: 77.5                                        ║
-║                                                              ║
-║  STATUS      :: COMPLETED                                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./background.jpg" width="100%" alt="Cyberpunk technology background"/>
-
-# ⚙️ `06 // ENGINEERING PROTOCOL`
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-### 💡 IDEATE
-
-`01`
-
-</td>
-
-<td align="center">
-
-### 🛠️ BUILD
-
-`02`
-
-</td>
-
-<td align="center">
-
-### 🧪 TEST
-
-`03`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⚡ AUTOMATE
-
-`04`
-
-</td>
-
-<td align="center">
-
-### ☁️ DEPLOY
-
-`05`
-
-</td>
-
-<td align="center">
-
-### 📡 MONITOR
-
-`06`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-```text
-       IDEATE
-          │
-          ▼
-        BUILD
-          │
-          ▼
-         TEST
-          │
-          ▼
-      AUTOMATE
-          │
-          ▼
-       DEPLOY
-          │
-          ▼
-       MONITOR
-          │
-          ▼
-       IMPROVE
-          │
-          └───────────────► REPEAT
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 `07 // CURRENT MISSION`
-
-<table>
-<tr>
-<td align="center">
-
-### 🌐 FULL STACK
-
-Build better web applications and complete end-to-end development workflows.
-
-</td>
-
-<td align="center">
-
-### ☁️ CLOUD
-
-Expand AWS and cloud engineering capabilities.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🐍 PYTHON
-
-Create practical automation and data-processing systems.
-
-</td>
-
-<td align="center">
-
-### 🐧 DEVOPS
-
-Strengthen Linux, deployment, monitoring and automation workflows.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./background.jpg" width="100%" alt="Cyberpunk hacker network background"/>
-
-# 🔐 `08 // SECURE CHANNEL`
-
-<table>
-<tr>
-<td>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                  CONNECTION ESTABLISHED                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME       :: DINESH BABU M                                │
-│  ROLE       :: FULL STACK DEVELOPER                          │
-│  FOCUS      :: CLOUD ENGINEERING                            │
-│  LOCATION   :: THENI, TAMIL NADU                            │
-│  SIGNAL     :: WEB / DATA / CLOUD / AUTOMATION              │
-│  STATUS     :: ● READY                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"/>
-</a>
 
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%E2%86%92-00F7FF?style=for-the-badge&labelColor=050505" alt="View all repositories"/>
 </a>
-
-<a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"/>
-</a>
-
-<br><br>
-
-`mpsdinesh1221@gmail.com`
 
 </div>
 
 ---
 
-<div align="center">
+## `08 // EXPERIENCE`
 
-<img src="./background.jpg" width="100%" alt="Cyberpunk digital network background"/>
-
-# `SYSTEM // FINAL TRANSMISSION`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%5B+BUILD+%5D;%5B+LEARN+%5D;%5B+AUTOMATE+%5D;%5B+DEPLOY+%5D;%5B+REPEAT+%5D" alt="Developer terminal sequence"/>
+### `PROCESS ASSOCIATE`
+**Aggregate Intelligence Pvt. Ltd**
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              DINESH BABU M // SYSTEM ONLINE                 ║
-║                                                              ║
-║       WEB  •  DATA  •  CLOUD  •  AUTOMATION                 ║
-║                                                              ║
-║              BUILD // AUTOMATE // DEPLOY                    ║
-║                                                              ║
-║                 [ CONNECTION CLOSED ]                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+AWS EC2       → Automation workloads
+AWS S3        → Client data delivery
+LINUX         → Cron / logs / uptime
+DATA          → Validate / transform / load
+MONITORING    → Troubleshoot / verify
 ```
 
-<br>
+### `SQL DEVELOPER`
+**codepluse Pvt. Ltd**
 
-`⚡ FULL STACK` &nbsp;&nbsp; `☁️ CLOUD` &nbsp;&nbsp; `🐍 PYTHON` &nbsp;&nbsp; `🐧 LINUX`
+```text
+SQL QUERIES
+STORED PROCEDURES
+DATA EXTRACTION
+MYSQL
+POSTGRESQL
+DATA REPORTING
+DATA VALIDATION
+PYTHON AUTOMATION
+```
+
+---
+
+## `09 // SKILL MATRIX`
+
+```text
+PYTHON          ████████████████████
+SQL             ████████████████████
+AWS             ██████████████████░░
+LINUX           ██████████████████░░
+DATA            ██████████████████░░
+AUTOMATION      ██████████████████░░
+DATABASES       ██████████████████░░
+FULL STACK      ███████████████░░░░░
+```
+
+> The bars are a visual representation of focus areas, not formal skill
+> percentages.
+
+---
+
+## `10 // EDUCATION`
+
+```text
+┌────────────────────────────────────────────────────┐
+│ BE — ELECTRICAL & ELECTRONICS ENGINEERING         │
+│ Ambal Professional Group of Institutions           │
+│ 2017 — 2021                                       │
+│ CGPA :: 77.5                                      │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+## `11 // CURRENT TARGET`
+
+```text
+                 ┌────────────────────┐
+                 │    NEXT LEVEL       │
+                 └─────────┬──────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      CLOUD             DATA             SOFTWARE
+      AWS/DevOps        Pipelines        Full Stack
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                  PRODUCTION SYSTEMS
+```
+
+`CLOUD` • `DATA` • `SOFTWARE` • `AUTOMATION` • `DEVOPS`
+
+---
+
+## `12 // CONNECT`
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  DINESH BABU M                                │
+│  CLOUD ENGINEER / FULL STACK / DATA           │
+│                                               │
+│  EMAIL  :: mpsdinesh1221@gmail.com            │
+│  GITHUB :: github.com/Dinesh-babu-M           │
+│                                               │
+│  STATUS :: READY TO BUILD                     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+<a href="mailto:mpsdinesh1221@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub"/>
+</a>
 
 <br><br>
 
-**Thanks for visiting the system.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1900&pause=650&color=22C55E&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%5B+BUILD+%5D;%5B+AUTOMATE+%5D;%5B+DEPLOY+%5D;%5B+MONITOR+%5D;%5B+REPEAT+%5D" alt="Animated engineering loop"/>
+
+### `SYSTEM READY // BUILD SOMETHING USEFUL`
 
 </div>
