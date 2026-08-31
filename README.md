@@ -25,6 +25,7 @@ SOURCE OF TRUTH:
 <details>
 <summary><b>⚙️ PROFILE CONFIGURATION</b></summary>
 
+```js
 const profile = {
   name: "DINESH BABU M",
   username: "Dinesh-babu-M",
@@ -106,8 +107,11 @@ const focus = {
   exploring: ["AWS", "Linux", "Python automation", "SQL"],
   goals: ["Full Stack Developer", "Cloud Engineer"]
 };
+```
 
 </details>
+
+---
 
 <!-- =========================================================
      HERO
@@ -133,6 +137,7 @@ const focus = {
 
 <br><br>
 
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   USER: DINESH_BABU_M                                            ║
@@ -142,8 +147,11 @@ const focus = {
 ║   SIGNAL: WEB • DATA • CLOUD • AUTOMATION                         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
 
 <!-- =========================================================
      SECTION 01
@@ -155,6 +163,7 @@ const focus = {
 
 <div align="center">
 
+```text
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
 │  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗           │
@@ -169,12 +178,15 @@ const focus = {
 │  [●] WEB / DATA / CLOUD                                            │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-Dinesh Babu M is a Full Stack Developer and Cloud Engineer working across Python, SQL, AWS, Linux, data processing, automation and web development.
+> **Dinesh Babu M** is a **Full Stack Developer and Cloud Engineer** working across Python, SQL, AWS, Linux, data processing, automation and web development.
 
-📍 THENI // TAMIL NADU // INDIA
+📍 `THENI // TAMIL NADU // INDIA`
+
+---
 
 <!-- =========================================================
      SECTION 02
@@ -186,6 +198,7 @@ Dinesh Babu M is a Full Stack Developer and Cloud Engineer working across Python
 
 <div align="center">
 
+```text
 > whoami
 
 DINESH BABU M
@@ -207,12 +220,15 @@ AWS / LINUX
 AUTOMATION
         =
 MODERN SOFTWARE SYSTEMS
+```
 
 </div>
 
-I build and explore practical software around web development, Python, SQL, cloud technologies and automation. My technical background includes AWS EC2/S3, Linux operations, SQL databases, Python libraries and data-processing workflows.
+I build and explore practical software around **web development, Python, SQL, cloud technologies and automation**. My technical background includes AWS EC2/S3, Linux operations, SQL databases, Python libraries and data-processing workflows.
 
-My development direction is focused on combining Full Stack Development + Cloud Engineering rather than presenting them as separate worlds.
+My development direction is focused on combining **Full Stack Development + Cloud Engineering** rather than presenting them as separate worlds.
+
+---
 
 <!-- =========================================================
      SECTION 03
@@ -222,36 +238,38 @@ My development direction is focused on combining Full Stack Development + Cloud 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=%5B%2003%20%5D%20TECH%20MATRIX&fontSize=24&fontColor=22D3EE&animation=twinkling&color=0:000000,50:03141B,100:061E2A" width="92%" alt="Animated Tech Matrix section"/>
 </div>
 
-01 // PROGRAMMING
+### `01 // PROGRAMMING`
 
 <img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=050505" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=050505" alt="SQL"/>
 <img src="https://img.shields.io/badge/SHELL-22C55E?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=050505" alt="Shell scripting"/>
 
-02 // PYTHON TOOLCHAIN
+### `02 // PYTHON TOOLCHAIN`
 
 <img src="https://img.shields.io/badge/BEAUTIFULSOUP-F59E0B?style=for-the-badge&logo=python&logoColor=000000&labelColor=050505" alt="BeautifulSoup"/>
 <img src="https://img.shields.io/badge/PANDAS-818CF8?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=050505" alt="Pandas"/>
 <img src="https://img.shields.io/badge/REQUESTS-06B6D4?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=050505" alt="Requests"/>
 
-03 // DATABASE CORE
+### `03 // DATABASE CORE`
 
 <img src="https://img.shields.io/badge/MYSQL-38BDF8?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=050505" alt="MySQL"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-60A5FA?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=050505" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MONGODB-22C55E?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=050505" alt="MongoDB"/>
 
-04 // CLOUD / SYSTEM
+### `04 // CLOUD / SYSTEM`
 
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=000000&labelColor=050505" alt="AWS EC2"/>
 <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=000000&labelColor=050505" alt="AWS S3"/>
 <img src="https://img.shields.io/badge/LINUX-22C55E?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=050505" alt="Linux"/>
 
-05 // ENGINEERING TOOLS
+### `05 // ENGINEERING TOOLS`
 
 <img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=050505" alt="Git"/>
 <img src="https://img.shields.io/badge/JIRA-38BDF8?style=for-the-badge&logo=jira&logoColor=000000&labelColor=050505" alt="JIRA"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=050505" alt="Postman"/>
 <img src="https://img.shields.io/badge/EXCEL-22C55E?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&labelColor=050505" alt="Excel"/>
+
+---
 
 <!-- =========================================================
      SECTION 04
@@ -263,6 +281,7 @@ My development direction is focused on combining Full Stack Development + Cloud 
 
 <div align="center">
 
+```text
                          ┌──────────────────────┐
                          │     DINESH BABU M     │
                          └──────────┬───────────┘
@@ -287,8 +306,11 @@ My development direction is focused on combining Full Stack Development + Cloud 
                           │ LINUX / CRON   │
                           │ LOGS / CHECKS  │
                           └────────────────┘
+```
 
 </div>
+
+---
 
 <!-- =========================================================
      SECTION 05
@@ -300,6 +322,7 @@ My development direction is focused on combining Full Stack Development + Cloud 
 
 <div align="center">
 
+```text
                          ┌──────────────┐
                          │     USER     │
                          └──────┬───────┘
@@ -336,10 +359,13 @@ My development direction is focused on combining Full Stack Development + Cloud 
                     │   SYSTEM OPERATIONS  │
                     │ Linux / Cron / Logs  │
                     └──────────────────────┘
+```
 
 </div>
 
-Architecture is presented as a visual summary of technologies represented by the supplied resume and public repositories. It does not expose private infrastructure, IP addresses, credentials or internal network details.
+> Architecture is presented as a visual summary of technologies represented by the supplied resume and public repositories. It does not expose private infrastructure, IP addresses, credentials or internal network details.
+
+---
 
 <!-- =========================================================
      SECTION 06
@@ -355,75 +381,85 @@ Architecture is presented as a visual summary of technologies represented by the
 
 </div>
 
-01 // HERO LEARNING PLATFORM
+## `01` // HERO LEARNING PLATFORM
 
-AI English Speaking Tutor
+**AI English Speaking Tutor**
 
 A React-based AI English speaking tutor with speech practice, pronunciation feedback, vocabulary support, accent training and progress tracking described in the repository README.
 
-STACK
+**STACK**
 
-React TailwindCSS / Chakra UI Web Speech API OpenAI Whisper OpenAI GPT Redux Toolkit / Context API
+`React` `TailwindCSS / Chakra UI` `Web Speech API` `OpenAI Whisper` `OpenAI GPT` `Redux Toolkit / Context API`
 
-ACCESS
+**ACCESS**
 
- OPEN REPOSITORY ↗ 
+[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/hero_learning-platform)
 
-02 // HR-PROJECT
+---
 
-Laravel Web Application
+## `02` // HR-PROJECT
+
+**Laravel Web Application**
 
 A Laravel repository containing application, database, routing, resources, tests and frontend build configuration.
 
-STACK
+**STACK**
 
-Laravel PHP JavaScript Vite TailwindCSS
+`Laravel` `PHP` `JavaScript` `Vite` `TailwindCSS`
 
-ACCESS
+**ACCESS**
 
- OPEN REPOSITORY ↗ 
+[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/hr-project)
 
-03 // PORTFOLIO
+---
 
-React Portfolio
+## `03` // PORTFOLIO
+
+**React Portfolio**
 
 A responsive multi-page React portfolio with React Bootstrap, EmailJS contact form integration and centralized content editing.
 
-STACK
+**STACK**
 
-React React Bootstrap EmailJS JavaScript
+`React` `React Bootstrap` `EmailJS` `JavaScript`
 
-ACCESS
+**ACCESS**
 
- OPEN REPOSITORY ↗ 
+[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/Portfolio)
 
-04 // MY-PORTFOLIO
+---
 
-Deployed Portfolio
+## `04` // MY-PORTFOLIO
+
+**Deployed Portfolio**
 
 React portfolio repository with a publicly listed Netlify deployment.
 
-STACK
+**STACK**
 
-React JavaScript CSS Netlify
+`React` `JavaScript` `CSS` `Netlify`
 
-ACCESS
+**ACCESS**
 
- REPOSITORY ↗     LIVE NODE ↗ 
+[ `REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/my-portfolio) &nbsp; [ `LIVE NODE ↗` ](https://dinesh-babu-m-portfolio.netlify.app/)
 
-05 // NETFLIX-CLONE
+---
 
-Frontend Interface Clone
+## `05` // NETFLIX-CLONE
+
+**Frontend Interface Clone**
 
 A frontend project focused on an intuitive, visually appealing interface and easy navigation.
 
-STACK
+**STACK**
 
-HTML CSS JavaScript
+`HTML` `CSS` `JavaScript`
 
-ACCESS
+**ACCESS**
 
- OPEN REPOSITORY ↗ 
+[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/Netflix-Clone)
+
+---
 
 <div align="center">
 
@@ -437,6 +473,8 @@ ACCESS
 
 </div>
 
+---
+
 <!-- =========================================================
      SECTION 07
      ========================================================= -->
@@ -447,6 +485,7 @@ ACCESS
 
 <div align="center">
 
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  EDUCATION_NODE                                               │
@@ -458,8 +497,11 @@ ACCESS
 │  CGPA          :: 77.5                                      │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
 
 </div>
+
+---
 
 <!-- =========================================================
      SECTION 08
@@ -475,55 +517,57 @@ ACCESS
 <tr>
 <td width="25%" valign="top" align="center">
 
-🟦 BUILDING
+### 🟦 BUILDING
 
-WEB APPS
+`WEB APPS`
 
-AUTOMATION
+`AUTOMATION`
 
-DATA WORKFLOWS
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-🟪 LEARNING
-
-FULL STACK
-
-CLOUD
-
-DEVOPS
+`DATA WORKFLOWS`
 
 </td>
 
 <td width="25%" valign="top" align="center">
 
-🟥 EXPLORING
+### 🟪 LEARNING
 
-AWS
+`FULL STACK`
 
-LINUX
+`CLOUD`
 
-PYTHON
-
-SQL
+`DEVOPS`
 
 </td>
 
 <td width="25%" valign="top" align="center">
 
-🟩 GOALS
+### 🟥 EXPLORING
 
-FULL STACK
+`AWS`
 
-CLOUD ENGINEER
+`LINUX`
+
+`PYTHON`
+
+`SQL`
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+### 🟩 GOALS
+
+`FULL STACK`
+
+`CLOUD ENGINEER`
 
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 <!-- =========================================================
      SECTION 09
@@ -537,6 +581,7 @@ CLOUD ENGINEER
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%24+echo+%22BUILD%22;%24+echo+%22LEARN%22;%24+echo+%22AUTOMATE%22;%24+echo+%22DEPLOY%22;%24+echo+%22REPEAT%22" alt="Animated terminal commands"/>
 
+```text
 STATUS
 ────────────────────────────────────────────────────────────
 [■■■■■■■■■■] PROFILE ONLINE
@@ -547,8 +592,11 @@ STATUS
 ────────────────────────────────────────────────────────────
 SIGNAL :: WEB + DATA + CLOUD
 MODE   :: BUILDING
+```
 
 </div>
+
+---
 
 <!-- =========================================================
      SECTION 10
@@ -578,13 +626,15 @@ MODE   :: BUILDING
 
 <br><br>
 
-mpsdinesh1221@gmail.com
+`mpsdinesh1221@gmail.com`
 
 <br>
 
-THENI // TAMIL NADU // INDIA
+`THENI // TAMIL NADU // INDIA`
 
 </div>
+
+---
 
 <!-- =========================================================
      FOOTER
@@ -596,6 +646,7 @@ THENI // TAMIL NADU // INDIA
 
 <br>
 
+```text
 ┌──────────────────────────────────────────┐
 │                                          │
 │   DINESH BABU M                          │
@@ -604,8 +655,9 @@ THENI // TAMIL NADU // INDIA
 │   [ END OF PROFILE ]                     │
 │                                          │
 └──────────────────────────────────────────┘
+```
 
-© DINESH BABU M
+`© DINESH BABU M`
 
 </div>
 
@@ -616,4 +668,7 @@ MAINTENANCE
 2. Set featured: true if it should compete for the five featured slots.
 3. Change priority to control order.
 4. Update the five project blocks when the curated set changes.
-5. Keep repository
+5. Keep repository descriptions and technologies tied to verified repository information.
+6. Keep profile/skills/focus values tied to the resume.
+7. Do not add private credentials, tokens, IP addresses or internal infrastructure.
+-->
