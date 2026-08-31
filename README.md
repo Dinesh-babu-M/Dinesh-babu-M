@@ -1,31 +1,14 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    DINESH BABU M — DEVELOPER OS                    ║
-║              GitHub Profile / Digital Portfolio README              ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-SOURCE OF TRUTH
-- Professional information: Resume
-- Repository information: GitHub
-- No fabricated projects, technologies, statistics, credentials or links
--->
-
 <div align="center">
 
-# DINESH BABU M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,45:07111F,75:0B1020,100:000000&height=220&section=header&text=DINESH%20BABU%20M&fontSize=46&fontColor=00F0FF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20ENGINEER&descAlignY=58&descSize=18&descColor=8B5CF6&animation=twinkling" width="100%" alt="Dinesh Babu M — Full Stack Developer and Cloud Engineer" />
 
-### `IT PROFESSIONAL  •  SQL DEVELOPER  •  CLOUD & DEVOPS SUPPORT`
-
-**SQL · Python · AWS · Linux · Data Operations · Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;CLOUD+ENGINEER;SQL+%7C+PYTHON+%7C+AWS+%7C+LINUX;DATA+OPERATIONS+%7C+AUTOMATION+%7C+SYSTEM+SUPPORT" alt="Animated role and technology banner" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dinesh--babu--M-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinesh-babu-M)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpsdinesh1221@gmail.com)
-
-<br>
-
-`BUILD` &nbsp; `LEARN` &nbsp; `EXPLORE` &nbsp; `IMPROVE`
+<a href="https://github.com/Dinesh-babu-M"><img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=05070D" alt="GitHub profile"></a>
+<a href="mailto:mpsdinesh1221@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email"></a>
+<a href="https://github.com/Dinesh-babu-M?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" alt="All repositories"></a>
 
 </div>
 
@@ -34,449 +17,311 @@ SOURCE OF TRUTH
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   D I N E S H   B A B U   M                                    │
-│                                                                  │
-│   SQL DEVELOPMENT  ────────┐                                    │
-│                            ├──► CLOUD OPERATIONS                 │
-│   DATA OPERATIONS  ────────┤                                    │
-│                            ├──► AUTOMATION                      │
-│   SYSTEM SUPPORT   ────────┘                                    │
-│                                                                  │
-│                         [ SYSTEM ONLINE ]                       │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════════════╗
+║                         D E V E L O P E R   O S                         ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [01] IDENTITY        DINESH BABU M                                    ║
+║  [02] PRIMARY ROLE    FULL STACK DEVELOPER                             ║
+║  [03] CLOUD TRACK     CLOUD ENGINEER                                   ║
+║  [04] CORE            SQL • PYTHON • AWS • LINUX                       ║
+║  [05] SPECIALTY       DATA • AUTOMATION • SYSTEM OPERATIONS             ║
+║  [06] MODE            BUILD / LEARN / EXPLORE                          ║
+║                                                                          ║
+║                    ░░░░░ SYSTEM ONLINE ░░░░░                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> **IT professional focused on SQL development, data operations, cloud system support and automation — currently targeting Cloud / DevOps Support opportunities.**
+> **Full Stack Developer & Cloud Engineer** focused on building web applications, working with data and databases, automating operational workflows, and supporting cloud-based systems with AWS and Linux.
 
-📍 **Theni, Tamil Nadu, India**
+**Location:** Theni, Tamil Nadu, India
 
 ---
 
-# 01 — DEVELOPER STATUS
+## `01 // ABOUT`
+
+I am an IT professional with experience spanning **SQL development, data operations, cloud system support, process monitoring and automation**.
+
+My professional background includes **AWS EC2, AWS S3, Linux, cron scheduling, log monitoring, SQL, Python scripting, database validation and airline/travel-domain data operations**.
+
+Alongside my professional experience, my GitHub portfolio contains web-development projects using technologies such as **JavaScript and React**, including portfolio and application projects.
+
+My technical direction is the intersection of:
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVELOPER SYSTEM                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  STATUS        ● ACTIVE                                    │
-│  ROLE          SQL / CLOUD OPERATIONS / SUPPORT             │
-│  FOCUS         CLOUD & DEVOPS SUPPORT                       │
-│  CORE          SQL · PYTHON · AWS · LINUX                  │
-│  DOMAIN        DATA OPERATIONS                              │
-│  MODE          BUILDING · LEARNING · EXPLORING              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+FULL STACK DEVELOPMENT
+        │
+        ├── Web Applications
+        ├── JavaScript / React
+        └── UI-focused Projects
+        │
+        ▼
+CLOUD ENGINEERING
+        │
+        ├── AWS EC2 / S3
+        ├── Linux
+        ├── Automation
+        └── Monitoring
+        │
+        ▼
+DATA & BACKEND OPERATIONS
+        │
+        ├── SQL
+        ├── MySQL
+        ├── PostgreSQL
+        └── MongoDB
 ```
 
 ---
 
-# 02 — ABOUT ME
+## `02 // SYSTEM STATUS`
 
-I am an IT professional with experience across **SQL development, data operations, cloud system support, process monitoring and automation**.
+<div align="center">
 
-My professional experience includes working with **AWS EC2 and S3, Linux system checks, cron scheduling, log monitoring, SQL databases, Python scripting and data validation**.
+| SIGNAL | STATE |
+|---|---|
+| `SYSTEM` | 🟢 ONLINE |
+| `PRIMARY ROLE` | **FULL STACK DEVELOPER** |
+| `CLOUD TRACK` | **CLOUD ENGINEER** |
+| `PROGRAMMING` | Python · SQL · Shell |
+| `WEB` | JavaScript · React |
+| `DATABASE` | MySQL · PostgreSQL · MongoDB |
+| `CLOUD` | AWS EC2 · AWS S3 |
+| `OS` | Linux |
+| `OPERATIONS` | Monitoring · Validation · Troubleshooting |
 
-I have worked with airline and travel-domain datasets, supported data pipelines, performed database validation and collaborated with DevOps, QA and Data Engineering teams.
-
-My current career direction is toward **Cloud / DevOps Support**, combining my SQL, Linux, AWS and automation experience with reliable system operations.
+</div>
 
 ---
 
-# 03 — SKILLS MATRIX
+## `03 // SKILL MATRIX`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `PROGRAMMING`
 
-### PROGRAMMING
+`Python` `SQL` `Shell Scripting`
 
-- Python
-- SQL
-- Shell Scripting
+### `WEB / APPLICATION`
 
-### PYTHON
+`JavaScript` `React`
 
-- BeautifulSoup
-- Pandas
-- Requests
+### `PYTHON ECOSYSTEM`
 
-### DATABASES
+`BeautifulSoup` `Pandas` `Requests`
 
-- MySQL
-- PostgreSQL
-- MongoDB
+### `DATABASE`
 
-</td>
+`MySQL` `PostgreSQL` `MongoDB`
 
-<td width="50%" valign="top">
+### `CLOUD`
 
-### CLOUD
+`AWS EC2` `AWS S3`
 
-- AWS EC2
-- AWS S3
+### `SYSTEM`
 
-### OPERATING SYSTEM
+`Linux` `Cron Jobs` `Log Tracking` `Uptime Checks`
 
-- Linux
+### `TOOLS`
 
-### TOOLS
+`Git` `JIRA` `Postman` `Excel`
 
-- Git
-- JIRA
-- Postman
-- Excel
-
-</td>
-</tr>
-</table>
-
-### CORE EXPERTISE
+### `CORE EXPERTISE`
 
 `Cloud Operations` · `SQL Development` · `Data Processing` · `Process Monitoring` · `Troubleshooting`
 
 ---
 
-# 04 — TECH STACK
+## `04 // TECH STACK PIPELINE`
 
 ```text
-                         ┌──────────────────┐
-                         │    DEVELOPER     │
-                         │   DINESH BABU M  │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │        PROGRAMMING       │
-                    │   SQL · Python · Shell   │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │       APPLICATIONS       │
-                    │ Web · Data · Automation  │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │        DATABASES         │
-                    │ MySQL · PostgreSQL       │
-                    │ MongoDB                  │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │      CLOUD / SYSTEM      │
-                    │ AWS EC2 · AWS S3 · Linux │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                    ┌──────────────────────────┐
-                    │        OPERATIONS        │
-                    │ Monitoring · Validation  │
-                    │ Troubleshooting          │
-                    └──────────────────────────┘
+                         ┌───────────────────────┐
+                         │      DINESH BABU      │
+                         │   DEVELOPER SYSTEM    │
+                         └───────────┬───────────┘
+                                     │
+                    ┌────────────────┼────────────────┐
+                    ▼                ▼                ▼
+             ┌────────────┐   ┌────────────┐   ┌────────────┐
+             │   FRONTEND │   │  BACKEND   │   │    DATA    │
+             │ JavaScript │   │ Python     │   │ SQL        │
+             │ React      │   │ SQL        │   │ MySQL      │
+             └─────┬──────┘   └─────┬──────┘   │ PostgreSQL │
+                   │                │           │ MongoDB    │
+                   └────────┬───────┴───────────└─────┬──────┘
+                            ▼                          │
+                    ┌──────────────────┐              │
+                    │ CLOUD / SYSTEM   │◄─────────────┘
+                    │ AWS EC2          │
+                    │ AWS S3           │
+                    │ Linux            │
+                    └────────┬─────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │   OPERATIONS     │
+                    │ Automation       │
+                    │ Monitoring       │
+                    │ Validation       │
+                    └──────────────────┘
 ```
 
 ---
 
-# 05 — SYSTEM ARCHITECTURE
+## `05 // ARCHITECTURE`
 
-My professional work includes data processing, validation, database operations, cloud-hosted automation and system monitoring.
+The architecture below reflects the layers supported by my actual professional experience and documented repositories; unsupported infrastructure details are intentionally excluded.
 
 ```text
-       DATA SOURCES
-            │
-            ▼
-   ┌───────────────────┐
-   │ DATA PROCESSING   │
-   │ Python / SQL      │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │ VALIDATION        │
-   │ Quality Checks    │
-   │ Transformation    │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │ RELATIONAL DATA   │
-   │ MySQL / PostgreSQL│
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │ CLOUD OPERATIONS  │
-   │ AWS EC2 / S3      │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │ MONITORING        │
-   │ Linux / Logs      │
-   │ Cron / Uptime     │
-   └───────────────────┘
+             ┌─────────────────────┐
+             │       USER          │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │   WEB APPLICATION   │
+             │ JavaScript / React  │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │ APPLICATION / DATA  │
+             │ Python / SQL        │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │      DATABASE       │
+             │ MySQL / PostgreSQL  │
+             │ MongoDB             │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │  CLOUD / SYSTEM     │
+             │ AWS EC2 / S3        │
+             │ Linux               │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │     OPERATIONS      │
+             │ Cron / Logs / Uptime│
+             └─────────────────────┘
 ```
 
 ---
 
-# 06 — APPLICATION / NETWORK FLOW
+## `06 // FEATURED PROJECTS`
 
-Only the layers supported by my professional experience are represented here.
+### `01` — IED PROJECT
 
-```text
-┌───────────────┐
-│ DATA / CLIENT │
-└───────┬───────┘
-        │
-        ▼
-┌────────────────────┐
-│ DATA PROCESSING    │
-│ Python / SQL       │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ DATABASE LAYER     │
-│ MySQL              │
-│ PostgreSQL         │
-│ MongoDB            │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ CLOUD / SERVER     │
-│ AWS EC2            │
-│ AWS S3             │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ OPERATIONS         │
-│ Linux              │
-│ Cron               │
-│ Logs               │
-│ Uptime Checks      │
-└────────────────────┘
-```
+**Repository:** [Dinesh-babu-M/ied_project](https://github.com/Dinesh-babu-M/ied_project)
 
-> Private IP addresses, credentials, tokens, device identifiers and internal infrastructure details are intentionally not exposed.
+The repository currently exists publicly but is empty, so no implementation technology or feature set is claimed here.
+
+`PUBLIC` · `REPOSITORY`
 
 ---
 
-# 07 — WEB / SYSTEM ENVIRONMENT
+### `02` — AI ENGLISH SPEAKING TUTOR
 
-| Layer | Verified Environment |
-|---|---|
-| Programming | Python · SQL · Shell |
-| Web / Frontend Projects | JavaScript · CSS · React in selected repositories |
-| Database | MySQL · PostgreSQL · MongoDB |
-| Cloud | AWS EC2 · AWS S3 |
-| Operating System | Linux |
-| Version Control | Git |
-| API / Testing Tool | Postman |
-| Project Tracking | JIRA |
-| Data / Reporting | Excel |
+**Repository:** [Dinesh-babu-M/hero_learning-platform](https://github.com/Dinesh-babu-M/hero_learning-platform)
+
+A React-based AI English speaking tutor project documented with real-time speech practice, pronunciation feedback, vocabulary support, accent training and progress tracking.
+
+**Verified repository stack**
+
+`React` · `TailwindCSS / Chakra UI` · `Web Speech API / OpenAI Whisper` · `OpenAI GPT / Custom NLP` · `Redux Toolkit / Context API`
+
+`PUBLIC` · `WEB APPLICATION` · `UPDATED AUG 2025`
 
 ---
 
-# 08 — FEATURED PROJECTS
+### `03` — HR PROJECT
 
-> Five projects are intentionally curated here. The complete repository collection remains available below.
+**Repository:** [Dinesh-babu-M/hr-project](https://github.com/Dinesh-babu-M/hr-project)
 
----
+A public JavaScript repository containing an application structure with `app`, `config`, `database`, `resources`, `routes`, `storage` and `tests` directories. The repository is identified by GitHub as a Laravel project.
 
-## `01` — HERO LEARNING PLATFORM
-
-### AI English Speaking Tutor
-
-A React-based learning project documented as an AI English speaking tutor with speech practice, pronunciation feedback, vocabulary support, accent training and progress tracking.
-
-**STACK**
-
-`JavaScript` `React` `TailwindCSS / Chakra UI` `Web Speech API / OpenAI Whisper` `OpenAI GPT / Custom NLP`
-
-**STATUS**
-
-`PUBLIC`
-
-[ **VIEW REPOSITORY →** ](https://github.com/Dinesh-babu-M/hero_learning-platform)
+`JavaScript` · `Laravel` · `PUBLIC`
 
 ---
 
-## `02` — PORTFOLIO
+### `04` — REACT PORTFOLIO
 
-### React Developer / Designer Portfolio
+**Repository:** [Dinesh-babu-M/Portfolio](https://github.com/Dinesh-babu-M/Portfolio)
 
-A responsive multi-page portfolio project built with React. The repository includes React Bootstrap, routing, contact-form integration and a centralized content-editing approach.
+A JavaScript portfolio project in the GitHub profile's public repositories.
 
-**STACK**
-
-`JavaScript` `React` `React Bootstrap` `React Router` `EmailJS`
-
-**STATUS**
-
-`PUBLIC`
-
-[ **VIEW REPOSITORY →** ](https://github.com/Dinesh-babu-M/Portfolio)
+`JavaScript` · `PUBLIC` · `WEB`
 
 ---
 
-## `03` — MY PORTFOLIO CONNECT
+### `05` — CALCULATOR
 
-### Portfolio Project
+**Repository:** [Dinesh-babu-M/calculator](https://github.com/Dinesh-babu-M/calculator)
 
-A portfolio repository with a publicly listed Netlify deployment.
+An intuitive calculator interface with a clear layout, readable controls and calculation input/output.
 
-**STACK**
-
-`CSS`
-
-**STATUS**
-
-`PUBLIC`
-
-[ **REPOSITORY →** ](https://github.com/Dinesh-babu-M/my-portfolio-connect)
-&nbsp;&nbsp;
-[ **LIVE →** ](https://my-portfolio-connect.netlify.app/)
+`JavaScript` · `PUBLIC` · `WEB`
 
 ---
 
-## `04` — MY PORTFOLIO
-
-### Portfolio Project
-
-A portfolio repository with a publicly listed Netlify deployment.
-
-**STACK**
-
-`CSS`
-
-**STATUS**
-
-`PUBLIC`
-
-[ **REPOSITORY →** ](https://github.com/Dinesh-babu-M/my-portfolio)
-&nbsp;&nbsp;
-[ **LIVE →** ](https://dinesh-babu-m-portfolio.netlify.app/)
-
----
-
-## `05` — CALCULATOR
-
-### User-Focused Calculator Interface
-
-A calculator project described in the repository as an intuitive interface with a clear layout, readable controls and calculation input/output.
-
-**STACK**
-
-`JavaScript`
-
-**STATUS**
-
-`PUBLIC`
-
-[ **VIEW REPOSITORY →** ](https://github.com/Dinesh-babu-M/calculator)
-
----
-
-# 09 — PROJECT ARCHITECTURE
-
-Where the repository documentation provides enough technical information, the project flow can be represented as:
-
-```text
-                    ┌─────────────┐
-                    │    USER     │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │     UI      │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ APPLICATION │
-                    │    LOGIC    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ DATA / API  │
-                    └─────────────┘
-```
-
-For repositories where the underlying implementation is not sufficiently documented, additional architecture layers are intentionally not claimed.
-
----
-
-# 10 — VIEW ALL REPOSITORIES
+## `07 // EXPLORE THE FULL CODEBASE`
 
 <div align="center">
 
-### `EXPLORE THE COMPLETE CODEBASE`
-
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
 
-**VIEW ALL REPOSITORIES →**
+<img src="https://img.shields.io/badge/>>_VIEW_ALL_REPOSITORIES-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=05070D" alt="View all repositories">
 
 </a>
+
+<br><br>
+
+`5 CURATED PROJECTS` &nbsp; `+` &nbsp; `FULL REPOSITORY COLLECTION`
 
 </div>
 
 ---
 
-# 11 — EXPERIENCE
+## `08 // EXPERIENCE`
 
-```text
-2024 ───────────────────────────────────────────────► PRESENT
+### `2024 — PRESENT`
+### PROCESS ASSOCIATE — Aggregate Intelligence Pvt. Ltd.
 
-        PROCESS ASSOCIATE
-        Aggregate Intelligence Pvt. Ltd.
+Professional experience includes:
 
-        ├─ AWS EC2 automation and data scripts
-        ├─ AWS S3 client data delivery
-        ├─ Linux system checks
-        ├─ Cron scheduling
-        ├─ Log monitoring and uptime checks
-        ├─ Airline / travel dataset validation
-        ├─ Data pipeline support
-        ├─ SQL and MongoDB validation
-        └─ DevOps / QA / Data Engineering collaboration
-```
+- Managed AWS EC2 instances for automation and data scripts.
+- Used AWS S3 for client data delivery.
+- Performed Linux system checks, cron scheduling and log monitoring.
+- Validated, transformed and loaded airline/travel-domain datasets into relational databases.
+- Collaborated with DevOps, QA and Data Engineering teams for deployment and troubleshooting.
+- Supported data pipelines and verified outputs using SQL and basic MongoDB queries.
+- Developed and managed SQL stored procedures and Python scripts.
+- Scheduled EC2 instances to automate workflows and support system operations.
 
-```text
-2022 ───────────────────────────────► 2024
+### `2022 — 2024`
+### SQL DEVELOPER — codepluse Pvt. Ltd.
 
-        SQL DEVELOPER
-        codepluse Pvt. Ltd.
+Professional experience included:
 
-        ├─ SQL query development and optimization
-        ├─ Stored procedures
-        ├─ Data extraction scripts
-        ├─ MySQL database management
-        ├─ PostgreSQL database management
-        ├─ Data quality checks
-        ├─ Validation rules
-        └─ Python-assisted database automation
-```
+- Developed and optimized SQL queries, stored procedures and data-extraction scripts.
+- Maintained MySQL and PostgreSQL databases for reporting and analytics.
+- Coordinated with scripting and QA teams for data integrity and automation accuracy.
+- Implemented data-quality checks and validation rules.
+- Assisted in automating routine database tasks using Python scripts.
 
-### INTERNSHIP / TRAINING
+### `INTERNSHIP / TRAINING`
 
 **Novitech — 30-Day Full Stack Development Masterclass**
 
-Hands-on full-stack development program covering front-end and back-end web development technologies.
+Hands-on full-stack development training covering front-end and back-end web-development technologies.
 
 ---
 
-# 12 — EDUCATION
+## `09 // EDUCATION`
 
 ### BE — Electrical & Electronics Engineering
 
@@ -488,174 +333,150 @@ Hands-on full-stack development program covering front-end and back-end web deve
 
 ---
 
-# 13 — CERTIFICATIONS
+## `10 // CERTIFICATIONS`
 
 No certifications are listed in the supplied resume.
 
 ---
 
-# 14 — ACHIEVEMENTS
+## `11 // ACHIEVEMENTS`
 
 No separate awards or achievements are listed in the supplied resume.
 
 ---
 
-# 15 — GITHUB ANALYTICS
+## `12 // CAREER VECTOR`
 
-### PROFILE
-
-[ **OPEN GITHUB PROFILE →** ](https://github.com/Dinesh-babu-M)
-
-> GitHub statistics are intentionally not hard-coded here because repository counts, stars, commits and contribution data change over time.
+```text
+                         ┌──────────────────────┐
+                         │      EXPERIENCE      │
+                         └──────────┬───────────┘
+                                    │
+                ┌───────────────────┼───────────────────┐
+                ▼                   ▼                   ▼
+          SQL DEVELOPMENT     DATA OPERATIONS      WEB PROJECTS
+                │                   │                   │
+                └─────────────┬─────┴───────────────────┘
+                              ▼
+                    ┌─────────────────────┐
+                    │ PYTHON + AUTOMATION │
+                    └──────────┬──────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │ AWS + LINUX         │
+                    │ EC2 · S3 · MONITOR  │
+                    └──────────┬──────────┘
+                               ▼
+                 ┌────────────────────────────┐
+                 │ FULL STACK + CLOUD ENGINEER│
+                 └────────────────────────────┘
+```
 
 ---
 
-# 16 — CONTRIBUTION ACTIVITY
+## `13 // CURRENT FOCUS`
 
 <div align="center">
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/Dinesh-babu-M)](https://github.com/Dinesh-babu-M)
-
-[ **OPEN CONTRIBUTION PROFILE →** ](https://github.com/Dinesh-babu-M)
+| `BUILDING` | `LEARNING` | `EXPLORING` | `GOALS` |
+|---|---|---|---|
+| Web development projects | Cloud engineering | AWS | Full Stack Development |
+| Data processing | DevOps practices | Linux operations | Cloud Engineering |
+| Automation workflows | Automation | SQL automation | Reliable systems |
 
 </div>
 
 ---
 
-# 17 — CURRENT FOCUS
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### BUILDING
-
-Web development projects
-
-Data processing and automation workflows
-
-</td>
-
-<td width="25%" valign="top">
-
-### LEARNING
-
-Cloud operations
-
-DevOps support
-
-Automation
-
-</td>
-
-<td width="25%" valign="top">
-
-### EXPLORING
-
-AWS
-
-Linux operations
-
-SQL automation
-
-</td>
-
-<td width="25%" valign="top">
-
-### GOALS
-
-Cloud / DevOps Support
-
-Reliable system operations
-
-</td>
-</tr>
-</table>
-
----
-
-# 18 — CAREER DIRECTION
-
-```text
-                 CURRENT EXPERIENCE
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ SQL DEVELOPMENT     │
-              │ DATA OPERATIONS     │
-              │ PROCESS MONITORING  │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ AWS + LINUX         │
-              │ PYTHON AUTOMATION   │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ CLOUD / DEVOPS      │
-              │ SUPPORT             │
-              └─────────────────────┘
-```
-
----
-
-# 19 — CONTACT
+## `14 // GITHUB ACTIVITY`
 
 <div align="center">
 
-## LET'S BUILD SOMETHING
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://github-readme-stats.vercel.app/api?username=Dinesh-babu-M&show_icons=true&hide_border=true&bg_color=05070D&title_color=00F0FF&text_color=C7D2FE&icon_color=8B5CF6&ring_color=00F0FF&include_all_commits=true" alt="GitHub profile statistics" />
+</a>
 
-**Open to opportunities and conversations around Cloud / DevOps Support, SQL, automation and system operations.**
+<br><br>
+
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-babu-M&layout=compact&hide_border=true&bg_color=05070D&title_color=00F0FF&text_color=C7D2FE&icon_color=8B5CF6" alt="GitHub top languages" />
+</a>
+
+</div>
+
+> Live GitHub statistics are loaded from the external stats service; they are not manually fabricated in this README.
+
+---
+
+## `15 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00F0FF/Dinesh-babu-M" alt="GitHub contribution activity graph" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Dinesh--babu--M-111827?style=for-the-badge&logo=github)](https://github.com/Dinesh-babu-M)
-
-[![Email](https://img.shields.io/badge/EMAIL-mpsdinesh1221%40gmail.com-111827?style=for-the-badge&logo=gmail)](mailto:mpsdinesh1221@gmail.com)
+[OPEN GITHUB CONTRIBUTIONS →](https://github.com/Dinesh-babu-M)
 
 </div>
 
 ---
 
-# 20 — MAINTENANCE / DATA MODEL
-
-The README is designed around a centralized project model.
+## `16 // COMMAND CENTER`
 
 ```text
-ALL REPOSITORIES
-       │
-       ▼
- PROJECT ARRAY
-       │
-       ▼
-featured === true
-       │
-       ▼
-SORT BY priority
-       │
-       ▼
-TAKE FIRST 5
-       │
-       ▼
-FEATURED PROJECTS
-       │
-       ▼
-VIEW ALL REPOSITORIES
-       │
-       ▼
-GITHUB REPOSITORIES
+┌────────────────────────────────────────────────────────────────────┐
+│                         DINESH COMMAND CENTER                      │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  WEB                 JavaScript / React                            │
+│  DATA                SQL / Python / Database Operations            │
+│  CLOUD               AWS EC2 / AWS S3                              │
+│  SYSTEM              Linux / Cron / Logs                           │
+│  AUTOMATION          Python / Scheduled Workflows                  │
+│  TOOLING             Git / JIRA / Postman / Excel                  │
+│                                                                    │
+│  OBJECTIVE           Build reliable software + cloud systems       │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## `17 // CONTACT`
+
+<div align="center">
+
+### `LET'S BUILD SOMETHING`
+
+**FULL STACK DEVELOPMENT · CLOUD ENGINEERING · DATA · AUTOMATION**
+
+<br>
+
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=05070D" alt="GitHub">
+</a>
+
+<a href="mailto:mpsdinesh1221@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070D" alt="Email">
+</a>
+
+</div>
+
+---
+
+## `18 // MAINTENANCE`
+
+This README is intentionally structured so the visible profile can evolve without changing its design language.
 
 ### Add a project
 
-Add one object to the `projects` configuration:
+Add one project object to your source data:
 
 ```js
 {
-  name: "new-project",
-  description: "Verified project description",
+  name: "New Project",
+  description: "Verified description",
   technologies: ["Verified Technology"],
   github: "https://github.com/Dinesh-babu-M/new-project",
   live: "",
@@ -668,89 +489,67 @@ Add one object to the `projects` configuration:
 
 ### Feature a project
 
-Change:
-
-```js
-featured: false
-```
-
-to:
-
 ```js
 featured: true
 ```
 
-### Change featured order
+### Control the five featured projects
 
-Lower `priority` numbers appear first.
+Use the lowest priorities:
 
 ```text
-priority 1 → first
-priority 2 → second
-priority 3 → third
-priority 4 → fourth
-priority 5 → fifth
+1 → first
+2 → second
+3 → third
+4 → fourth
+5 → fifth
 ```
 
-### Remove a project
-
-Remove its single project object from the `projects` array.
+Only the first five projects with `featured: true`, sorted by `priority`, should appear in the curated area.
 
 ### Add a technology
 
-Update the relevant `technologies` array:
+Only add technologies that are verified in your resume or repository.
 
-```js
-technologies: [
-  "Python",
-  "SQL",
-  "Verified Technology"
-]
-```
+### Update experience
 
-### Add experience
+Add the new role to the centralized experience data and update the visible timeline.
 
-Add one object to the centralized `experience` configuration.
+### Update education
 
-### Add education
+Add the institution, degree, field and dates.
 
-Add one object to the centralized `education` configuration.
+### Update certifications
 
-### Add certification
-
-Add one object to the centralized `certifications` configuration.
+Add only verified certifications and credential URLs.
 
 ### Update social links
 
-Modify the centralized `socialLinks` configuration and add only verified URLs.
+Add only valid public professional URLs.
 
-### Update current focus
+### Update focus
 
-Modify the centralized `focus` configuration:
+Keep the four focus buckets:
 
-```js
-const focus = {
-  building: [],
-  learning: [],
-  exploring: [],
-  goals: []
-};
+```text
+BUILDING
+LEARNING
+EXPLORING
+GOALS
 ```
 
-### Access all repositories
+### View every repository
 
-https://github.com/Dinesh-babu-M?tab=repositories
+[VIEW ALL REPOSITORIES →](https://github.com/Dinesh-babu-M?tab=repositories)
 
 ---
 
 <div align="center">
 
-### BUILD • LEARN • CREATE • REPEAT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:07111F,100:05070D&height=120&section=footer&animation=twinkling" width="100%" alt="Animated dark footer" />
 
-**© Dinesh Babu**
+### `BUILD • LEARN • CREATE • REPEAT`
 
-<br>
-
-`Developer OS / v1.0`
+`DINESH BABU M`
 
 </div>
