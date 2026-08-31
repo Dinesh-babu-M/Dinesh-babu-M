@@ -1,323 +1,274 @@
 <div align="center">
+⚡ DINESH BABU M
+FULL STACK DEVELOPER · CLOUD ENGINEER
 
-<img src="./assets/hero-cyber.gif" width="100%" alt="Animated dark cyberpunk developer background with Dinesh Babu M profile title"/>
+PYTHON · SQL · AWS · LINUX · WEB · AUTOMATION
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%3E+FULL_STACK_DEVELOPER;%3E+CLOUD_ENGINEER;%3E+PYTHON+%7C+SQL+%7C+AWS+%7C+LINUX;%3E+BUILD+%2F%2F+AUTOMATE+%2F%2F+DEPLOY" alt="Animated terminal profile status"/>
+<br> <img src="./background.jpg" width="100%" alt="Cyberpunk developer background"> <br>
+SYSTEM STATUS
 
-<br/>
+🟢 ONLINE    ⚡ BUILDING    ☁️ CLOUD    🐍 PYTHON
 
-<a href="https://github.com/Dinesh-babu-M"><img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505" alt="GitHub"/></a>
-<a href="https://github.com/Dinesh-babu-M?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505" alt="All repositories"/></a>
-<a href="mailto:mpsdinesh1221@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505" alt="Email"/></a>
+<br> <a href="https://github.com/Dinesh-babu-M"> <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"> </a> <a href="https://github.com/Dinesh-babu-M?tab=repositories"> <img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"> </a> <a href="mailto:mpsdinesh1221@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"> </a> </div>
+<table width="100%"> <tr> <td>
+01 // WHO AM I
+</td> </tr> <tr> <td>
+> INITIALIZING PROFILE...
 
-</div>
+I am Dinesh Babu M, a Full Stack Developer and Cloud Engineer focused on building practical web applications, automation workflows, data-driven systems and cloud-based solutions.
 
-> **Design note:** The cyber background in this README is generated from the image you uploaded and stored locally in this repository. No direct Vecteezy image URL is used.
+My technical focus includes Python, SQL, AWS, Linux, web development, database systems, automation and system operations.
 
----
+I enjoy transforming ideas into working systems — from application logic and databases to cloud deployment and Linux operations.
 
-<img src="./assets/core-stack.gif" width="100%" alt="Animated cyberpunk Core Stack section"/>
+┌──────────────────────────────────────────────────────────────┐
+│                     DEVELOPER PROFILE                        │
+├──────────────────────────────────────────────────────────────┤
+│ NAME        :: DINESH BABU M                                 │
+│ ROLE        :: FULL STACK DEVELOPER                          │
+│ SPECIALITY  :: CLOUD ENGINEERING                             │
+│ LOCATION    :: THENI, TAMIL NADU, INDIA                     │
+│ MODE        :: BUILD / AUTOMATE / DEPLOY                     │
+│ STATUS      :: ● ONLINE                                      │
+└──────────────────────────────────────────────────────────────┘
 
-<div align="center">
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+02 // TECH MATRIX
+</td> </tr> <tr> <td>
+SYSTEM	TECHNOLOGIES
+🐍 PROGRAMMING	Python · SQL · Shell Scripting
+🌐 WEB	Web Development · REST/API Workflows
+🗄️ DATABASE	MySQL · PostgreSQL · MongoDB
+☁️ CLOUD	AWS EC2 · AWS S3
+🐧 SYSTEM	Linux · cron jobs · logs · uptime checks
+🔧 TOOLS	Git · JIRA · Postman · Excel
+📊 DATA	Pandas · Requests · BeautifulSoup
+⚙️ AUTOMATION	Python Automation · Data Processing
+<br>
+PYTHON  ████████████████████░░  BUILD
+SQL     ██████████████████░░░░  DATA
+AWS     █████████████████░░░░░  CLOUD
+LINUX   █████████████████░░░░░  SYSTEM
+GIT     ███████████████████░░░  VERSION
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║  USER       :: DINESH_BABU_M                                    ║
-║  IDENTITY   :: FULL STACK DEVELOPER                            ║
-║  DIRECTION  :: CLOUD ENGINEER                                  ║
-║  LOCATION   :: THENI // TAMIL NADU // INDIA                    ║
-║  SIGNAL     :: WEB + DATA + CLOUD + AUTOMATION                 ║
-║  STATUS     :: ● ONLINE                                        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### `> whoami`
-
-Full Stack Developer and Cloud Engineer focused on **Python, SQL, AWS, Linux, web development, data processing and automation**. My resume highlights AWS EC2/S3, Linux system operations, SQL development, Python scripting and database work.
-
----
-
-<img src="./assets/engineering.gif" width="100%" alt="Animated cyberpunk Engineering section"/>
-
-## `// TECH MATRIX`
-
-| NODE | STACK |
-|---|---|
-| `PROGRAMMING` | `Python` · `SQL` · `Shell scripting` |
-| `PYTHON` | `BeautifulSoup` · `Pandas` · `Requests` |
-| `DATABASE` | `MySQL` · `PostgreSQL` · `MongoDB` |
-| `CLOUD` | `AWS EC2` · `AWS S3` |
-| `SYSTEM` | `Linux` · `cron jobs` · `log tracking` · `uptime checks` |
-| `TOOLS` | `Git` · `JIRA` · `Postman` · `Excel` |
-
-These technologies are taken from the supplied resume rather than inferred from a generic developer stack.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=000&labelColor=050505" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=050505" alt="SQL"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000&labelColor=050505" alt="AWS"/>
-<img src="https://img.shields.io/badge/LINUX-22C55E?style=for-the-badge&logo=linux&logoColor=fff&labelColor=050505" alt="Linux"/>
-<img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=fff&labelColor=050505" alt="Git"/>
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=fff&labelColor=050505" alt="Postman"/>
-
-</div>
-
----
-
-<img src="./assets/architecture.gif" width="100%" alt="Animated cyberpunk architecture section"/>
-
-## `// SYSTEM FLOW`
-
-<div align="center">
-
-```text
-                         ┌─────────────────┐
-                         │      USER       │
-                         └────────┬────────┘
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+03 // SYSTEM ARCHITECTURE
+</td> </tr> <tr> <td align="center">
+                         ┌──────────────────┐
+                         │      USER        │
+                         └────────┬─────────┘
                                   │
                                   ▼
-                    ┌──────────────────────────┐
-                    │     WEB / APP LAYER      │
-                    └────────────┬─────────────┘
+                    ┌─────────────────────────┐
+                    │       WEB / APP         │
+                    └────────────┬────────────┘
                                  │
                                  ▼
-                    ┌──────────────────────────┐
-                    │ APPLICATION / AUTOMATION │
-                    └────────────┬─────────────┘
+                    ┌─────────────────────────┐
+                    │ APPLICATION / API       │
+                    │       PYTHON            │
+                    └────────────┬────────────┘
                                  │
-                    ┌────────────┴─────────────┐
-                    ▼                          ▼
-             ┌─────────────┐            ┌─────────────┐
-             │     SQL     │            │   PYTHON    │
-             │    DATA     │            │ AUTOMATION  │
-             └──────┬──────┘            └──────┬──────┘
-                    └────────────┬─────────────┘
+                    ┌────────────┴────────────┐
+                    ▼                         ▼
+             ┌──────────────┐          ┌──────────────┐
+             │     SQL      │          │ AUTOMATION   │
+             │    DATA      │          │   WORKFLOW   │
+             └──────┬───────┘          └──────┬───────┘
+                    │                         │
+                    └────────────┬────────────┘
                                  ▼
-                    ┌──────────────────────────┐
-                    │       CLOUD / AWS        │
-                    │        EC2 + S3          │
-                    └────────────┬─────────────┘
+                    ┌─────────────────────────┐
+                    │       AWS CLOUD         │
+                    │       EC2 + S3          │
+                    └────────────┬────────────┘
+                                 │
                                  ▼
-                    ┌──────────────────────────┐
-                    │     LINUX OPERATIONS      │
-                    │  CRON • LOGS • MONITORING │
-                    └──────────────────────────┘
-```
+                    ┌─────────────────────────┐
+                    │    LINUX OPERATIONS     │
+                    │ LOGS • CRON • MONITORING│
+                    └─────────────────────────┘
 
-</div>
 
-This is a technology-level portfolio visualization, not a claim about a single private production architecture.
+USER → APPLICATION → DATA → CLOUD → SYSTEM
 
----
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+04 // PROJECT VAULT
+</td> </tr> <tr> <td>
+01 — AI ENGLISH SPEAKING TUTOR
+hero_learning-platform
 
-<img src="./assets/project-vault.gif" width="100%" alt="Animated cyberpunk Project Vault section"/>
+An AI-powered English speaking platform designed around real-time speaking practice, pronunciation feedback, vocabulary assistance, accent training and progress tracking.
 
-## `// PROJECT VAULT`
+Technology direction
 
-### `01` — `ied_project`
-**Status:** Public repository · **Current state:** empty repository
+REACT · TAILWINDCSS · WEB SPEECH API · OPENAI · REDUX
 
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/ied_project)
+OPEN REPOSITORY ↗ 
 
-> The public repository is currently empty, so no technology or feature claims are added.
+02 — LARAVEL APPLICATION
+hr-project
 
----
+Laravel-based application repository containing the standard application, database, routing, resources, storage and testing structure.
 
-### `02` — `hero_learning-platform`
-**AI English Speaking Tutor**
+Technology direction
 
-A React-based AI English speaking coach with real-time speech practice, pronunciation feedback, vocabulary support, accent training and progress tracking. The repository README lists React, TailwindCSS/Chakra UI, Web Speech API/OpenAI Whisper, OpenAI GPT/Custom NLP and Redux Toolkit/Context API.
+LARAVEL · PHP · VITE · TAILWINDCSS · COMPOSER
 
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/hero_learning-platform)
+OPEN REPOSITORY ↗ 
 
----
+03 — PORTFOLIO
+Portfolio
 
-### `03` — `hr-project`
-**Laravel Application Repository**
+Public JavaScript portfolio repository representing another stage of the development journey.
 
-The repository contains a Laravel application structure with `app`, `bootstrap`, `config`, `database`, `public`, `resources`, `routes`, `storage`, `tests`, Composer configuration, Vite configuration and Tailwind configuration.
+STACK
 
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/hr-project)
+JAVASCRIPT
 
----
+OPEN REPOSITORY ↗ 
 
-### `04` — `Portfolio`
-**Portfolio Repository**
+04 — PORTFOLIO CSS
+my-portfolio
 
-Public JavaScript repository in your current GitHub repository list.
+Public CSS-based portfolio repository.
 
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/Portfolio)
+STACK
 
----
+CSS
 
-### `05` — `my-portfolio`
-**Portfolio Repository**
+OPEN REPOSITORY ↗ 
 
-Public CSS repository in your current GitHub repository list.
+05 — IED PROJECT
+ied_project
 
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/my-portfolio)
+Public repository currently available in the GitHub profile.
 
-<div align="center">
+OPEN REPOSITORY ↗ 
 
-<a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/%5B%20VIEW%20ALL%20REPOSITORIES%20%E2%86%92%20%5D-EC4899?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505" alt="View all repositories"/>
-</a>
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+05 // EDUCATION
+</td> </tr> <tr> <td>
+╔══════════════════════════════════════════════════════════════╗
+║                       EDUCATION NODE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  INSTITUTION  :: AMBAL PROFESSIONAL GROUP OF INSTITUTIONS   ║
+║                                                              ║
+║  DEGREE       :: B.E - ELECTRICAL & ELECTRONICS ENGINEERING ║
+║                                                              ║
+║  PERIOD       :: 2017 — 2021                                ║
+║                                                              ║
+║  CGPA         :: 77.5                                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-</div>
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+06 // ENGINEERING MODE
+</td> </tr> <tr> <td>
+              ┌─────────────────────┐
+              │       IDEATE        │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │        BUILD        │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │       TEST          │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │      AUTOMATE       │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │       DEPLOY        │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │      IMPROVE        │
+              └─────────────────────┘
 
-The remaining repositories are always accessible through the repository index below.
+MY DEVELOPMENT LOOP
 
----
+BUILD → TEST → AUTOMATE → DEPLOY → MONITOR → IMPROVE
 
-<img src="./assets/education.gif" width="100%" alt="Animated cyberpunk Education section"/>
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+07 // CURRENT MISSION
+</td> </tr> <tr> <td>
+MISSION	OBJECTIVE
+01	Become stronger in Full Stack Development
+02	Expand Cloud Engineering knowledge
+03	Build practical Python automation
+04	Improve SQL and database architecture
+05	Develop stronger Linux / DevOps workflows
+06	Build useful real-world applications
+<br>
+[ BUILD ]
+     ↓
+[ LEARN ]
+     ↓
+[ AUTOMATE ]
+     ↓
+[ DEPLOY ]
+     ↓
+[ REPEAT ]
 
-## `// EDUCATION NODE`
-
-<div align="center">
-
-```text
+</td> </tr> </table>
+<table width="100%"> <tr> <td>
+08 // SECURE CHANNEL
+</td> </tr> <tr> <td align="center">
 ┌────────────────────────────────────────────────────────────┐
-│ EDUCATION                                                  │
+│                    CONNECTION REQUEST                      │
 ├────────────────────────────────────────────────────────────┤
-│ INSTITUTION :: Ambal Professional Group of Institutions    │
-│ DEGREE      :: BE - EEE                                   │
-│ PERIOD      :: 2017 — 2021                                │
-│ CGPA        :: 77.5                                       │
+│                                                            │
+│  NAME      :: DINESH BABU M                                │
+│  ROLE      :: FULL STACK DEVELOPER                         │
+│  FOCUS     :: CLOUD ENGINEERING                            │
+│  LOCATION  :: THENI, TAMIL NADU                            │
+│  STATUS    :: READY                                        │
+│                                                            │
 └────────────────────────────────────────────────────────────┘
-```
+
+<br> <a href="https://github.com/Dinesh-babu-M"> <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"> </a> <a href="https://github.com/Dinesh-babu-M?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"> </a> <a href="mailto:mpsdinesh1221@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"> </a>
+
+<br><br>
+
+mpsdinesh1221@gmail.com
+
+</td> </tr> </table>
+<div align="center"> <img src="./background.jpg" width="100%" alt="Cyberpunk developer background"> <br>
+DINESH BABU M
+FULL STACK • CLOUD • DATA • AUTOMATION
+[ SYSTEM ONLINE ]
+
+BUILD     ████████████████████
+LEARN     ████████████████████
+AUTOMATE  ████████████████████
+DEPLOY    ████████████████████
+
+STATUS :: READY FOR THE NEXT BUILD
+
+<br>
+
+< BUILD />   </ AUTOMATE >   < DEPLOY />
 
 </div>
-
-Source: supplied resume.
-
----
-
-<img src="./assets/mission.gif" width="100%" alt="Animated cyberpunk Mission section"/>
-
-## `// CURRENT MISSION`
-
 <div align="center">
+END OF PROFILE
 
-| BUILD | LEARN | EXPLORE | GOAL |
-|---|---|---|---|
-| Web development | Full Stack | AWS | Full Stack Developer |
-| Automation | Cloud Engineering | Linux | Cloud Engineer |
-| Data workflows | DevOps practices | Python / SQL | Continuous improvement |
+© DINESH BABU M
 
 </div>
-
----
-
-<img src="./assets/contact.gif" width="100%" alt="Animated cyberpunk Contact section"/>
-
-## `// SECURE CHANNEL`
-
-<div align="center">
-
-```text
-[ CONNECTION REQUEST ]
-
-NAME      :: DINESH BABU M
-ROLE      :: FULL STACK DEVELOPER / CLOUD ENGINEER
-LOCATION  :: THENI, TAMIL NADU
-CHANNEL   :: EMAIL
-
-STATUS    :: READY
-```
-
-<a href="https://github.com/Dinesh-babu-M"><img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505" alt="GitHub"/></a>
-<a href="https://github.com/Dinesh-babu-M?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505" alt="Repositories"/></a>
-<a href="mailto:mpsdinesh1221@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505" alt="Email"/></a>
-
-<br/>
-
-`mpsdinesh1221@gmail.com`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1900&pause=650&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%5B+BUILD+%5D;%5B+LEARN+%5D;%5B+AUTOMATE+%5D;%5B+DEPLOY+%5D;%5B+REPEAT+%5D" alt="Animated build learn automate deploy sequence"/>
-
-### `DINESH BABU M // END OF PROFILE`
-
-`WEB  •  DATA  •  CLOUD  •  AUTOMATION`
-
-</div>
-
-
-
----
-
-## `// MAINTENANCE CONSOLE`
-
-### Add a new project
-
-Add the repository to the `PROJECT VAULT` section using the same card format.
-
-```md
-### `06` — `your-repository`
-**Your Project Title**
-
-Short verified description based on the repository.
-
-[ `OPEN REPOSITORY ↗` ](https://github.com/Dinesh-babu-M/your-repository)
-```
-
-### Change the five featured projects
-
-Keep the curated section at **five projects maximum**. Replace any one project card with another repository when you want to rotate the portfolio.
-
-### Add a technology
-
-Only add a technology when it is supported by your resume or the actual repository.
-
-### Add education
-
-Update the `EDUCATION NODE` block.
-
-### Update contact links
-
-Update the GitHub/email links in the `SECURE CHANNEL` block.
-
-### All repositories
-
-```text
-https://github.com/Dinesh-babu-M?tab=repositories
-```
-
-### Asset system
-
-All cyber visuals are local:
-
-```text
-assets/
-├── hero-cyber.gif
-├── core-stack.gif
-├── engineering.gif
-├── architecture.gif
-├── project-vault.gif
-├── education.gif
-├── mission.gif
-├── contact.gif
-└── cyber-source.jpg
-```
-
-The README does not depend on the original image URL. The uploaded cyber image was used as the source for the local animated assets.
-
-<!--
-MAINTENANCE
------------
-This README intentionally uses local assets under ./assets.
-To update the visual theme, replace the generated GIFs in ./assets.
-
-Featured repository rule:
-1. Keep exactly five project blocks in the curated section.
-2. Replace a project block when you want to rotate the five featured repositories.
-3. Use the "VIEW ALL REPOSITORIES" link for the complete repository list.
--->
