@@ -4,232 +4,241 @@
 
 ### `CLOUD ENGINEER  //  FULL STACK DEVELOPER  //  DATA ENGINEER`
 
-<img src="./assets/hero-cyber.png" width="100%" alt="Cyberpunk developer interface"/>
+<img src="./cyber-profile.png" width="100%" alt="Dinesh Babu M cyberpunk developer profile"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%3E+CLOUD+ENGINEER;%3E+FULL_STACK_DEVELOPER;%3E+DATA_ENGINEER;%3E+PYTHON+%7C+SQL+%7C+AWS+%7C+LINUX;%3E+BUILD+%2F%2F+AUTOMATE+%2F%2F+DEPLOY" alt="Animated terminal introduction"/>
 
 <br/>
 
 <a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505" alt="Projects"/>
+  <img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505" alt="Projects"/>
 </a>
 &nbsp;
 <a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505" alt="Email"/>
+  <img src="https://img.shields.io/badge/CONTACT-EC4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## `01 // IDENTITY`
+## `01 // TERMINAL_IDENTITY`
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  USER       :: DINESH BABU M                                ║
-║  CLASS      :: CLOUD / FULL STACK / DATA                    ║
-║  PRIMARY    :: PYTHON • SQL • AWS • LINUX                   ║
-║  DATABASE   :: MYSQL • POSTGRESQL • MONGODB                 ║
-║  DOMAIN     :: AUTOMATION • DATA • CLOUD • WEB              ║
-║  MODE       :: BUILDING                                     ║
-╚══════════════════════════════════════════════════════════════╝
+root@dinesh-babu:~# whoami
+
+USER       :: DINESH BABU M
+ROLE       :: CLOUD ENGINEER / FULL STACK DEVELOPER / DATA ENGINEER
+LOCATION   :: THENI, TAMIL NADU, INDIA
+STATUS     :: ONLINE
+FOCUS      :: BUILD • AUTOMATE • ANALYZE • DEPLOY
+MISSION    :: SCALABLE SYSTEMS | RELIABLE DATA | SMART AUTOMATION
 ```
 
-I build and support systems across **cloud operations, software development,
-data processing and automation**.
-
-My core working stack is **Python, SQL, AWS and Linux**, with experience in
-database development, data validation, scheduled automation, cloud operations,
-monitoring and troubleshooting.
+I work across **cloud operations, application development, data engineering and automation**.
+My core stack is **Python, SQL, AWS and Linux**, with hands-on work in database development,
+data validation, scheduled automation, cloud operations, monitoring and troubleshooting.
 
 ---
 
-## `02 // LOADOUT`
+## `02 // QUICK_ACCESS`
 
 <div align="center">
 
-| `CYBER CORE` | `STACK` |
-|:---|:---|
-| 🐍 **PROGRAMMING** | Python · SQL · Shell |
-| 🗄️ **DATA** | MySQL · PostgreSQL · MongoDB |
-| ☁️ **CLOUD** | AWS EC2 · AWS S3 |
-| 🖥️ **SYSTEM** | Linux · Cron · Logs · Monitoring |
-| 🌐 **WEB** | React · Laravel · HTML · CSS |
-| 🔧 **TOOLS** | Git · Postman · JIRA · Excel |
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-00F7FF?style=for-the-badge&logo=github&logoColor=000&labelColor=050505"/>
+</a>
+
+<a href="https://github.com/Dinesh-babu-M?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-D946EF?style=for-the-badge&logo=github&logoColor=fff&labelColor=050505"/>
+</a>
+
+<a href="mailto:mpsdinesh1221@gmail.com">
+<img src="https://img.shields.io/badge/SEND_EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"/>
+</a>
 
 </div>
 
 ---
 
-## `03 // CLOUD OPS`
+## `03 // TECH_STACK`
 
-```text
-                    ┌────────────────────┐
-                    │     CLOUD CORE     │
-                    └─────────┬──────────┘
-                              │
-                 ┌────────────┴────────────┐
-                 ▼                         ▼
-          ┌─────────────┐           ┌─────────────┐
-          │    AWS EC2  │           │    AWS S3   │
-          │  COMPUTE    │           │    DATA     │
-          └──────┬──────┘           └──────┬──────┘
-                 │                         │
-                 └────────────┬────────────┘
-                              ▼
-                    ┌────────────────────┐
-                    │       LINUX        │
-                    │ CRON • LOGS • OPS  │
-                    └────────────────────┘
-```
-
-### `OPERATIONS`
-
-- AWS EC2 instance management
-- AWS S3 client-data delivery
-- Linux system checks
-- Cron scheduling
-- Log monitoring
-- Uptime checks
-- Automation execution
-- Production troubleshooting
-
----
-
-## `04 // DATA ENGINE`
+| `ZONE` | `TECHNOLOGIES` |
+|---|---|
+| ☁️ `CLOUD & DEVOPS` | AWS EC2 · AWS S3 · Linux · Cron Jobs · Log Monitoring · Uptime Checks |
+| 🐍 `PROGRAMMING` | Python · SQL · Shell Scripting |
+| 🗄️ `DATA & DATABASE` | MySQL · PostgreSQL · MongoDB · Pandas · Data Validation · ETL / Reporting |
+| 🌐 `WEB DEVELOPMENT` | HTML · CSS · JavaScript · React · Laravel · Tailwind CSS |
+| 🧰 `TOOLS` | Git · JIRA · Postman · Excel |
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=050505&labelColor=050505"/>
-<img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=050505"/>
-<img src="https://img.shields.io/badge/PANDAS-22C55E?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=050505"/>
-<img src="https://img.shields.io/badge/MONGODB-22C55E?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/LINUX-22C55E?style=for-the-badge&logo=linux&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/GIT-F97316?style=for-the-badge&logo=git&logoColor=fff&labelColor=050505"/>
 
 </div>
+
+---
+
+## `04 // SYSTEM_ARCHITECTURE`
+
+```text
+USER
+  │
+  ▼
+┌──────────────────────┐
+│ WEB / APP FRONTEND   │
+│ React / HTML / CSS   │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ BACKEND / AUTOMATION │
+│ Python / Laravel     │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ DATA LAYER           │
+│ SQL / NoSQL / ETL    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ CLOUD                │
+│ AWS EC2 / S3         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ MONITORING           │
+│ LOGS / CHECKS / OPS  │
+└──────────────────────┘
+```
+
+---
+
+## `05 // CLOUD_ENGINEERING`
+
+```text
+AWS EC2
+ ├── Automation workloads
+ ├── Scheduled processes
+ ├── Runtime operations
+ └── System monitoring
+
+AWS S3
+ ├── Data storage
+ ├── Client delivery
+ └── File workflows
+
+LINUX
+ ├── Cron scheduling
+ ├── Log tracking
+ ├── Uptime checks
+ └── Troubleshooting
+```
+
+---
+
+## `06 // DATA_ENGINEERING`
 
 ```text
 SOURCE
   │
   ▼
-┌──────────────┐
-│   EXTRACT    │  Python / SQL
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│   VALIDATE   │  Data Quality
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│  TRANSFORM   │  Python / SQL
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│     LOAD     │  MySQL / PostgreSQL
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│   REPORT     │  Verify / Monitor
-└──────────────┘
+EXTRACT
+  │  Python / SQL
+  ▼
+VALIDATE
+  │  Data Quality Checks
+  ▼
+TRANSFORM
+  │  Python / SQL
+  ▼
+LOAD
+  │  MySQL / PostgreSQL / MongoDB
+  ▼
+REPORT / MONITOR
 ```
 
-### `DATA WORK`
-
-`SQL QUERIES` · `STORED PROCEDURES` · `DATA EXTRACTION` · `VALIDATION`
-· `TRANSFORMATION` · `REPORTING` · `PIPELINE OUTPUT CHECKS`
+**Focus:** `SQL Queries` · `Stored Procedures` · `Data Extraction` · `Validation` ·
+`Transformation` · `Reporting` · `Pipeline Output Verification`
 
 ---
 
-## `05 // FULL STACK`
+## `07 // FULL_STACK_MODE`
 
 ```text
-                    FULL STACK MODE
-                         │
-             ┌───────────┴───────────┐
-             ▼                       ▼
-        ┌──────────┐             ┌──────────┐
-        │ FRONTEND │             │ BACKEND  │
-        ├──────────┤             ├──────────┤
-        │ React    │             │ Python   │
-        │ HTML     │             │ Laravel  │
-        │ CSS      │             │ REST API │
-        └────┬─────┘             └────┬─────┘
-             │                        │
-             └──────────┬─────────────┘
-                        ▼
-                 ┌─────────────┐
-                 │    DATA     │
-                 │ SQL / NoSQL │
-                 └─────────────┘
+             FULL STACK
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+    FRONTEND           BACKEND
+ React / HTML / CSS   Python / Laravel
+        │                 │
+        └────────┬────────┘
+                 ▼
+             DATA LAYER
+          SQL / NoSQL / APIs
 ```
-
-Development exposure includes React-based application work, Laravel
-application structure, frontend tooling and database-backed workflows.
 
 ---
 
-## `06 // AUTOMATION CORE`
+## `08 // AUTOMATION_CORE`
 
 ```text
-┌─────────────┐
-│   MANUAL    │
-│    TASK     │
-└──────┬──────┘
-       ▼
-┌─────────────┐
-│   PYTHON    │
-│   SCRIPT    │
-└──────┬──────┘
-       ▼
-┌─────────────┐
-│   SCHEDULE   │
-│    CRON      │
-└──────┬──────┘
-       ▼
-┌─────────────┐
-│    CLOUD     │
-│   AWS / EC2  │
-└──────┬──────┘
-       ▼
-┌─────────────┐
-│   MONITOR    │
-│ LOGS / CHECK │
-└──────┬──────┘
-       ▼
-┌─────────────┐
-│   VALIDATE   │
-│    OUTPUT    │
-└─────────────┘
+MANUAL TASK
+    │
+    ▼
+PYTHON SCRIPT
+    │
+    ▼
+SCHEDULE / CRON
+    │
+    ▼
+AWS / LINUX
+    │
+    ▼
+MONITOR LOGS
+    │
+    ▼
+VALIDATE OUTPUT
+    │
+    ▼
+AUTOMATE AGAIN
 ```
-
-**Automation mindset:** remove repetitive work, schedule reliable execution,
-validate the result, and monitor the system.
 
 ---
 
-## `07 // PROJECT VAULT`
+## `09 // PROJECT_VAULT`
 
 ### `01` — AI English Speaking Tutor
 
-**Stack:** React · TailwindCSS / Chakra UI · Web Speech API · OpenAI Whisper
-· OpenAI GPT · Redux Toolkit
+**Stack:** React · TailwindCSS / Chakra UI · Web Speech API · OpenAI Whisper · OpenAI GPT · Redux Toolkit
 
-AI-assisted English speaking platform focused on speech practice,
-pronunciation feedback, vocabulary support, accent training and progress
-tracking.
+AI-assisted English speaking platform focused on speech practice, pronunciation feedback,
+vocabulary support, accent training and progress tracking.
 
 **[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/hero_learning-platform)**
 
 ---
 
-### `02` — HR Application
+### `02` — HR Management Application
 
-**Stack:** Laravel · PHP · Vite · TailwindCSS
+**Stack:** Laravel · PHP · Vite · Tailwind CSS
 
-Laravel application repository containing application, database, routing,
+Laravel application repository with application structure, database layer, routing,
 testing and frontend configuration.
 
 **[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/hr-project)**
@@ -237,8 +246,6 @@ testing and frontend configuration.
 ---
 
 ### `03` — Portfolio
-
-**Stack:** JavaScript
 
 Personal portfolio and web-development repository.
 
@@ -248,135 +255,117 @@ Personal portfolio and web-development repository.
 
 ### `04` — My Portfolio
 
-**Stack:** CSS
-
 Portfolio-oriented frontend repository.
 
 **[ OPEN REPOSITORY ↗ ](https://github.com/Dinesh-babu-M/my-portfolio)**
 
----
-
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-%E2%86%92-00F7FF?style=for-the-badge&labelColor=050505" alt="View all repositories"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-%E2%86%92-00F7FF?style=for-the-badge&labelColor=050505"/>
 </a>
 
 </div>
 
 ---
 
-## `08 // EXPERIENCE`
+## `10 // WORK_EXPERIENCE`
 
-### `PROCESS ASSOCIATE`
-**Aggregate Intelligence Pvt. Ltd**
+### `PROCESS ASSOCIATE` — Aggregate Intelligence Pvt. Ltd
 
 ```text
 AWS EC2       → Automation workloads
 AWS S3        → Client data delivery
-LINUX         → Cron / logs / uptime
-DATA          → Validate / transform / load
-MONITORING    → Troubleshoot / verify
+Linux         → Cron / logs / uptime
+Data          → Validate / transform / load
+Monitoring    → Troubleshoot / verify outputs
 ```
 
-### `SQL DEVELOPER`
-**codepluse Pvt. Ltd**
+### `SQL DEVELOPER` — codepluse Pvt. Ltd
 
 ```text
-SQL QUERIES
-STORED PROCEDURES
-DATA EXTRACTION
-MYSQL
-POSTGRESQL
-DATA REPORTING
-DATA VALIDATION
-PYTHON AUTOMATION
+SQL Queries
+Stored Procedures
+Data Extraction
+MySQL
+PostgreSQL
+Data Reporting
+Data Validation
+Python Automation
+```
+
+### `FULL STACK INTERNSHIP` — Novitech
+
+```text
+30-Day Full Stack Development Masterclass
+Frontend + Backend fundamentals
+Hands-on web development exposure
 ```
 
 ---
 
-## `09 // SKILL MATRIX`
+## `11 // CORE_COMPETENCIES`
 
 ```text
 PYTHON          ████████████████████
 SQL             ████████████████████
 AWS             ██████████████████░░
 LINUX           ██████████████████░░
-DATA            ██████████████████░░
 AUTOMATION      ██████████████████░░
-DATABASES       ██████████████████░░
-FULL STACK      ███████████████░░░░░
+DATA ENGINEERING█████████████████░░░
+WEB DEVELOPMENT ███████████████░░░░░
 ```
 
-> The bars are a visual representation of focus areas, not formal skill
-> percentages.
+> Visual focus indicators only — not formal percentage scores.
 
 ---
 
-## `10 // EDUCATION`
+## `12 // EDUCATION`
 
 ```text
-┌────────────────────────────────────────────────────┐
-│ BE — ELECTRICAL & ELECTRONICS ENGINEERING         │
-│ Ambal Professional Group of Institutions           │
-│ 2017 — 2021                                       │
-│ CGPA :: 77.5                                      │
-└────────────────────────────────────────────────────┘
+BE — ELECTRICAL & ELECTRONICS ENGINEERING
+Ambal Professional Group of Institutions
+2017 — 2021
+CGPA :: 77.5
 ```
 
 ---
 
-## `11 // CURRENT TARGET`
+## `13 // LANGUAGES`
 
-```text
-                 ┌────────────────────┐
-                 │    NEXT LEVEL       │
-                 └─────────┬──────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-      CLOUD             DATA             SOFTWARE
-      AWS/DevOps        Pipelines        Full Stack
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                  PRODUCTION SYSTEMS
-```
-
-`CLOUD` • `DATA` • `SOFTWARE` • `AUTOMATION` • `DEVOPS`
+`TAMIL` — Native  
+`ENGLISH` — Professional working proficiency
 
 ---
 
-## `12 // CONNECT`
+## `14 // CONNECT`
 
 <div align="center">
 
 ```text
 ┌───────────────────────────────────────────────┐
-│                                               │
 │  DINESH BABU M                                │
-│  CLOUD ENGINEER / FULL STACK / DATA           │
+│  CLOUD / FULL STACK / DATA                    │
 │                                               │
 │  EMAIL  :: mpsdinesh1221@gmail.com            │
 │  GITHUB :: github.com/Dinesh-babu-M           │
 │                                               │
 │  STATUS :: READY TO BUILD                     │
-│                                               │
 └───────────────────────────────────────────────┘
 ```
 
 <a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=050505"/>
 </a>
 &nbsp;
 <a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050505&labelColor=050505"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1900&pause=650&color=22C55E&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%5B+BUILD+%5D;%5B+AUTOMATE+%5D;%5B+DEPLOY+%5D;%5B+MONITOR+%5D;%5B+REPEAT+%5D" alt="Animated engineering loop"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1900&pause=650&color=22C55E&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%5B+CONNECTED+%5D;%5B+BUILD+%5D;%5B+AUTOMATE+%5D;%5B+DEPLOY+%5D;%5B+MONITOR+%5D;%5B+REPEAT+%5D" alt="Animated engineering loop"/>
 
-### `SYSTEM READY // BUILD SOMETHING USEFUL`
+### `CONNECTED // LET'S BUILD THE FUTURE`
 
 </div>
