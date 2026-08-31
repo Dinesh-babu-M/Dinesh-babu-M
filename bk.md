@@ -813,13 +813,4 @@ REPEATABILITY     > MANUAL WORK
 
 </div>
 
-<!--
-DESIGN NOTES
-- Dark terminal / cyber-ops visual language.
-- Neon cyan / green / purple / amber / magenta palette.
-- No manually inserted "Popular repositories", "30 contributions in the last year",
-  or "Contribution activity" blocks. GitHub renders those profile-native sections
-  automatically below the README.
-- Education and language modules intentionally omitted to keep the profile focused
-  on engineering, projects, cloud, data, automation and operations.
--->
+
