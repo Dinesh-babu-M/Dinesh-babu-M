@@ -2,9 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=700&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=28&lines=%3E+SYSTEM_BOOT+%3A%3A+INITIALIZING_PROFILE...;%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E+DATA_PIPELINE+%3A%3A+READY;%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E+ENGINEERING_MODE+%3A%3A+IMPACT" alt="System boot"/>
 
-# `DINESH BABU M`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>DINESH BABU M</b></font>
+</td></tr></table>
 
-### `CLOUD ENGINEER  •  FULL STACK DEVELOPER  •  DATA ENGINEER`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>CLOUD ENGINEER  •  FULL STACK DEVELOPER  •  DATA ENGINEER</b></font>
+</td></tr></table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=800&pause=160&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=32&lines=%5BBUILD%5D+%5BAUTOMATE%5D+%5BANALYZE%5D+%5BDEPLOY%5D+%5BOPTIMIZE%5D;%5BSCALABLE+SYSTEMS%5D+%2B+%5BRELIABLE+DATA%5D+%2B+%5BSMART+AUTOMATION%5D;%5BCLOUD%5D+%2B+%5BDATA%5D+%2B+%5BAPPLICATIONS%5D+%2B+%5BDEVOPS%5D" alt="Engineering focus"/>
 
@@ -16,19 +22,33 @@
 
 </div>
 
-> **`PROFILE FORMAT NOTES`**
->
-> `THEME` → **FULL BLACK TERMINAL** &nbsp; `PRIMARY` → **LIGHT GREEN** &nbsp; `ACCENT` → **PURPLE**
->
-> `STYLE` → **PROFESSIONAL • ENGINEERING-FOCUSED • KNOWLEDGE-DRIVEN • PRODUCTION-MINDED**
->
-> `READING FLOW` → **PROBLEM → DESIGN → BUILD → DATA → CLOUD → AUTOMATE → DEPLOY → MONITOR → OPTIMIZE**
->
-> `PROFILE SIGNAL` → **CLOUD ENGINEERING + DATA ENGINEERING + FULL STACK DEVELOPMENT**
->
-> `NOTE` → Every section is designed to communicate practical engineering capability, system thinking, reliability, automation, and continuous improvement.
+<table width="100%" bgcolor="#000000"><tr><td bgcolor="#000000">
+<font color="#66FF99"><b>**`PROFILE FORMAT NOTES`**</b></font><br/>
 
----
+<font color="#66FF99"><b>`THEME` → **FULL BLACK TERMINAL** &nbsp; `PRIMARY` → **LIGHT GREEN** &nbsp; `ACCENT` → **PURPLE**</b></font><br/>
+
+<font color="#66FF99"><b>`STYLE` → **PROFESSIONAL • ENGINEERING-FOCUSED • KNOWLEDGE-DRIVEN • PRODUCTION-MINDED**</b></font><br/>
+
+<font color="#66FF99"><b>`READING FLOW` → **PROBLEM → DESIGN → BUILD → DATA → CLOUD → AUTOMATE → DEPLOY → MONITOR → OPTIMIZE**</b></font><br/>
+
+<font color="#66FF99"><b>`PROFILE SIGNAL` → **CLOUD ENGINEERING + DATA ENGINEERING + FULL STACK DEVELOPMENT**</b></font><br/>
+
+<font color="#66FF99"><b>`NOTE` → Every section is designed to communicate practical engineering capability, system thinking, reliability, automation, and continuous improvement.</b></font><br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#000000">
+<tr>
+<td align="center">
+<font color="#66FF99" size="3"><b>● BLACK TERMINAL MODE</b></font>
+&nbsp;&nbsp;&nbsp;
+<font color="#B366FF" size="3"><b>◆ PURPLE ENGINEERING ACCENT</b></font>
+<br/>
+<font color="#66FF99"><b>ALL PROFILE CONTENT • EXPLICIT GREEN / PURPLE • NO WHITE PROFILE TEXT</b></font>
+</td>
+</tr>
+</table>
+
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
 <table>
 <tr>
@@ -64,7 +84,10 @@
 └─────────────────────────────────────┘
 ```
 
-### `> ENGINEERING SIGNAL`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>> ENGINEERING SIGNAL</b></font>
+</td></tr></table>
 
 ```text
 PYTHON             ███████████████████░  95%
@@ -99,7 +122,10 @@ PROBLEM SOLVING    ███████████████████░ 
 └────────────────────────────────────────────────────────────────────┘
 ```
 
-## `> THE ENGINEER IN ONE SYSTEM`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>> THE ENGINEER IN ONE SYSTEM</b></font>
+</td></tr></table>
 
 ```text
                     ┌──────────────────────┐
@@ -131,9 +157,12 @@ PROBLEM SOLVING    ███████████████████░ 
 </tr>
 </table>
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `01 // PROJECT SETUP — END TO END`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>01 // PROJECT SETUP — END TO END</b></font>
+</td></tr></table>
 
 <div align="center">
 
@@ -200,9 +229,12 @@ PROBLEM SOLVING    ███████████████████░ 
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `02 // END-TO-END MIND MAP`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>02 // END-TO-END MIND MAP</b></font>
+</td></tr></table>
 
 ```text
                                   ┌─────────────────────┐
@@ -264,15 +296,21 @@ PROBLEM SOLVING    ███████████████████░ 
                                              └──────► CONTINUOUS LOOP
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `03 // HOW I BUILD A SYSTEM`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>03 // HOW I BUILD A SYSTEM</b></font>
+</td></tr></table>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### `01 // THINK`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>01 // THINK</b></font>
+</td></tr></table>
 
 ```text
 PROBLEM
@@ -298,7 +336,10 @@ FAILURE CASES
 
 <td width="33%" valign="top">
 
-### `02 // BUILD`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>02 // BUILD</b></font>
+</td></tr></table>
 
 ```text
 ARCHITECT
@@ -324,7 +365,10 @@ CONTAINERIZE
 
 <td width="33%" valign="top">
 
-### `03 // OPERATE`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>03 // OPERATE</b></font>
+</td></tr></table>
 
 ```text
 DEPLOY
@@ -350,9 +394,12 @@ SCALE
 </tr>
 </table>
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `04 // CLOUD ENGINEERING + DATA + FULL STACK`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>04 // CLOUD ENGINEERING + DATA + FULL STACK</b></font>
+</td></tr></table>
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -390,12 +437,16 @@ SCALE
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-> **The three roles are not separate islands.**  
-> Full-stack development creates the product surface, data engineering makes the information trustworthy, and cloud engineering makes the whole system deployable, observable, reliable and scalable.
+<table width="100%" bgcolor="#000000"><tr><td bgcolor="#000000">
+<font color="#66FF99"><b>**The three roles are not separate islands.**</b></font><br/>
+<font color="#66FF99"><b>Full-stack development creates the product surface, data engineering makes the information trustworthy, and cloud engineering makes the whole system deployable, observable, reliable and scalable.</b></font><br/>
+</td></tr></table>
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
----
-
-# `05 // DATA ENGINEERING WORKBENCH`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>05 // DATA ENGINEERING WORKBENCH</b></font>
+</td></tr></table>
 
 ```text
 SOURCE
@@ -446,7 +497,10 @@ REPORT / ANALYZE
   └── Decision support
 ```
 
-### `DATA ENGINEERING PRINCIPLES`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>DATA ENGINEERING PRINCIPLES</b></font>
+</td></tr></table>
 
 ```text
 TRUST THE DATA
@@ -462,9 +516,12 @@ MONITOR THE DATA FLOW
 MAKE THE DATA USEFUL
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `06 // CLOUD ENGINEERING WORKBENCH`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>06 // CLOUD ENGINEERING WORKBENCH</b></font>
+</td></tr></table>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -483,7 +540,10 @@ MAKE THE DATA USEFUL
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-### `CLOUD DECISION LOOP`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>CLOUD DECISION LOOP</b></font>
+</td></tr></table>
 
 ```text
 WORKLOAD
@@ -505,9 +565,12 @@ OPTIMIZE
 SCALE
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `07 // AUTOMATION ENGINE`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>07 // AUTOMATION ENGINE</b></font>
+</td></tr></table>
 
 <div align="center">
 
@@ -545,9 +608,12 @@ SCALE
 
 `MANUAL → SCRIPT → SCHEDULE → VALIDATE → OBSERVE → RECOVER → SCALE`
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `08 // SYSTEM ARCHITECTURE`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>08 // SYSTEM ARCHITECTURE</b></font>
+</td></tr></table>
 
 ```text
                               ┌─────────────┐
@@ -589,9 +655,12 @@ SCALE
                          └──────────────────┘
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `09 // TECH STACK`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>09 // TECH STACK</b></font>
+</td></tr></table>
 
 <div align="center">
 
@@ -603,7 +672,10 @@ SCALE
 <tr>
 <td width="50%" valign="top">
 
-### `LANGUAGES`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>LANGUAGES</b></font>
+</td></tr></table>
 
 ```text
 Python
@@ -613,7 +685,10 @@ PHP
 Bash / Shell
 ```
 
-### `DATA ENGINEERING`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>DATA ENGINEERING</b></font>
+</td></tr></table>
 
 ```text
 Pandas
@@ -625,7 +700,10 @@ Data Reporting
 SQL Analytics
 ```
 
-### `DATABASES`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>DATABASES</b></font>
+</td></tr></table>
 
 ```text
 MySQL
@@ -638,7 +716,10 @@ S3
 
 <td width="50%" valign="top">
 
-### `CLOUD / DEVOPS`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>CLOUD / DEVOPS</b></font>
+</td></tr></table>
 
 ```text
 AWS EC2
@@ -651,7 +732,10 @@ Monitoring
 Logging
 ```
 
-### `WEB / APPLICATION`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>WEB / APPLICATION</b></font>
+</td></tr></table>
 
 ```text
 React
@@ -664,7 +748,10 @@ CSS
 JavaScript
 ```
 
-### `ENGINEERING TOOLS`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#66FF99" size="5"><b>ENGINEERING TOOLS</b></font>
+</td></tr></table>
 
 ```text
 VS Code
@@ -679,9 +766,12 @@ Git
 </tr>
 </table>
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `10 // PRODUCTION ENGINEERING CHECKLIST`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>10 // PRODUCTION ENGINEERING CHECKLIST</b></font>
+</td></tr></table>
 
 ```text
 ┌────────────────────────────────────────────────────────────────────┐
@@ -707,12 +797,16 @@ Git
 └────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `11 // PROBLEM SOLVING PROTOCOL`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>11 // PROBLEM SOLVING PROTOCOL</b></font>
+</td></tr></table>
 
-> `NOTE` → Debug from evidence, isolate root causes, validate fixes, and prevent repeat failures.
-
+<table width="100%" bgcolor="#000000"><tr><td bgcolor="#000000">
+<font color="#66FF99"><b>`NOTE` → Debug from evidence, isolate root causes, validate fixes, and prevent repeat failures.</b></font><br/>
+</td></tr></table>
 ```text
 INCIDENT
    │
@@ -759,15 +853,21 @@ OBSERVABILITY > BLIND OPERATIONS
 RELIABILITY   > COMPLEXITY
 ```
 
----
+<table width="100%" bgcolor="#000000"><tr><td><hr/></td></tr></table>
 
-# `12 // FEATURED PROJECTS`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>12 // FEATURED PROJECTS</b></font>
+</td></tr></table>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01 // AI ENGLISH SPEAKING TUTOR`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>01 // AI ENGLISH SPEAKING TUTOR</b></font>
+</td></tr></table>
 
 ```text
 DOMAIN  :: AI / EDUCATION
@@ -792,7 +892,10 @@ FOCUS
 
 <td width="50%" valign="top">
 
-### `02 // HR MANAGEMENT SYSTEM`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>02 // HR MANAGEMENT SYSTEM</b></font>
+</td></tr></table>
 
 ```text
 DOMAIN  :: WEB APPLICATION
@@ -820,7 +923,10 @@ FOCUS
 <tr>
 <td width="50%" valign="top">
 
-### `03 // PORTFOLIO WEBSITE`
+<table width="100%" bgcolor="#000000">
+<tr><td bgcolor="#000000">
+<font color="#B366FF" size="5"><b>03 // PORTFOLIO WEBSITE</b></font>
+</td></tr></table>
 
 ```text
 DOMAIN  :: WEB DEVELOPMENT
@@ -836,213 +942,4 @@ FOCUS
 ```
 
 <a href="https://github.com/Dinesh-babu-M/Portfolio">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=071007"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04 // MY PORTFOLIO`
-
-```text
-DOMAIN  :: FRONTEND
-STACK   :: HTML
-          CSS
-          JavaScript
-
-FOCUS
-→ Modern UI
-→ Responsive design
-→ Component thinking
-→ User experience
-```
-
-<a href="https://github.com/Dinesh-babu-M/my-portfolio">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-BD7BFF?style=for-the-badge&logo=github&logoColor=66FF99&labelColor=100A18"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/>>>_VIEW_PROJECT_VAULT_<<<-39FF14?style=for-the-badge&logo=github&logoColor=000000&labelColor=071007"/>
-</a>
-
-</div>
-
----
-
-# `13 // ENGINEERING CAPABILITY MATRIX`
-
-| Capability | Engineering Focus |
-|---|---|
-| **Cloud** | AWS compute, storage, Linux operations, containers, deployment |
-| **Data** | ETL/ELT, SQL, transformation, validation, reporting |
-| **Backend** | APIs, business logic, database integration |
-| **Frontend** | React, JavaScript, responsive UI |
-| **Automation** | Python, Shell, scheduling, repeatable workflows |
-| **DevOps** | Git, Docker, deployment workflows, monitoring |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Reliability** | Logging, validation, error handling, recovery thinking |
-| **Optimization** | Performance, cost, maintainability and operational efficiency |
-| **Problem Solving** | Root-cause analysis, debugging, system-level thinking |
-
----
-
-# `14 // ENGINEERING PRINCIPLES`
-
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│                         CORE PRINCIPLES                            │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  01  UNDERSTAND THE PROBLEM BEFORE WRITING CODE                   │
-│  02  DESIGN THE DATA FLOW BEFORE BUILDING THE PIPELINE             │
-│  03  AUTOMATE WORK THAT HAPPENS MORE THAN ONCE                    │
-│  04  VALIDATE INPUTS AND OUTPUTS                                   │
-│  05  LOG WHAT MATTERS                                              │
-│  06  BUILD FOR FAILURE, NOT ONLY THE HAPPY PATH                   │
-│  07  KEEP DEPLOYMENTS REPEATABLE                                   │
-│  08  MEASURE BEFORE OPTIMIZING                                     │
-│  09  PREFER SIMPLE SYSTEMS THAT CAN BE OPERATED                   │
-│  10  CONTINUOUSLY IMPROVE THE SYSTEM                               │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `15 // ENGINEERING LOOP`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=600&pause=140&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=34&lines=%3E+THINK;%3E+DESIGN;%3E+BUILD;%3E+VALIDATE;%3E+AUTOMATE;%3E+DEPLOY;%3E+OBSERVE;%3E+OPTIMIZE;%3E+SCALE;%3E+REPEAT" alt="Engineering loop"/>
-
-```text
-                    ┌─────────────┐
-                    │    THINK    │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │    DESIGN   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │    BUILD    │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │  VALIDATE   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │  AUTOMATE   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │   DEPLOY    │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │   OBSERVE   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │  OPTIMIZE   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │    SCALE    │
-                    └──────┬──────┘
-                           │
-                           └──────────► REPEAT
-```
-
-</div>
-
----
-
-# `16 // CURRENT ENGINEERING DIRECTION`
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                         NEXT LEVEL                                │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ CLOUD       → DEEPER AWS / DEVOPS / INFRASTRUCTURE                │
-│ DATA        → ROBUST PIPELINES / QUALITY / ANALYTICS              │
-│ SOFTWARE    → SCALABLE FULL-STACK APPLICATIONS                    │
-│ AUTOMATION  → SELF-SERVICE / EVENT-DRIVEN WORKFLOWS              │
-│ CONTAINERS  → DOCKER / WORKLOAD MANAGEMENT                         │
-│ OBSERVABILITY → LOGS / METRICS / ALERTS / DASHBOARDS              │
-│ ARCHITECTURE → RELIABILITY / SECURITY / COST / SCALE              │
-│                                                                   │
-│ TARGET      → PRODUCTION-GRADE ENGINEERING                        │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `17 // SECURE CHANNEL`
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│ USER      :: DINESH BABU M                                       │
-│ ROLE      :: CLOUD / FULL STACK / DATA                            │
-│ STATUS    :: ● READY FOR IMPACT                                   │
-│                                                                   │
-│ "BUILDING RELIABLE SYSTEMS • AUTOMATING COMPLEXITY                │
-│  • DELIVERING REAL ENGINEERING IMPACT"                            │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-<a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/SEND_EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=071007"/>
-</a>
-
-<a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-BD7BFF?style=for-the-badge&logo=github&logoColor=66FF99&labelColor=100A18"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=BD7BFF&center=true&vCenter=true&repeat=true&width=850&height=34&lines=%5BSYSTEM_ONLINE%5D;%5BENGINEERING_MODE_ACTIVE%5D;%5BCLOUD+%2B+DATA+%2B+FULL_STACK%5D;%5BREADY_TO_BUILD%5D" alt="System status"/>
-
-### `root@dinesh:~$ build --reliable --automated --scalable`
-
-</div>
-
-<!--
-PROFILE DESIGN
-- Terminal / cyber-engineering visual language.
-- Primary visual colors: light green + purple.
-- Avoided white badge palette as far as GitHub/third-party badge rendering allows.
-- Focused on professional Cloud Engineering + Data Engineering + Full Stack Engineering.
-- Includes end-to-end project setup, architecture, data pipeline, cloud workflow,
-  automation, production checklist, capability matrix and engineering principles.
-- GitHub automatically renders native sections such as Popular repositories,
-  contribution graph and Contribution activity outside the README. Those native
-  profile sections cannot be removed or recolored using README Markdown.
--->
-
-
----
-
-<div align="center">
-
-### `FULL BLACK VISUAL SPECIFICATION`
-
-`BACKGROUND` **#000000** &nbsp; • &nbsp; `HEADERS` **LIGHT GREEN** &nbsp; • &nbsp; `ACCENTS` **PURPLE**
-
-`NO WHITE UI COLORS` &nbsp; • &nbsp; `TERMINAL STYLE` &nbsp; • &nbsp; `PROFESSIONAL ENGINEERING PROFILE`
-
-</div>
+<img sr
