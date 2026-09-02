@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=650&pause=120&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=26&lines=%3E%3E+BOOT_SEQUENCE+%3A%3A+INITIALIZING...;%3E%3E+NETWORK_LINK+%3A%3A+CONNECTED;%3E%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E%3E+DATA_PIPELINE+%3A%3A+READY;%3E%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E%3E+PROFILE_STATUS+%3A%3A+ONLINE" alt="Boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=700&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=28&lines=%3E+SYSTEM_BOOT+%3A%3A+INITIALIZING_PROFILE...;%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E+DATA_PIPELINE+%3A%3A+READY;%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E+ENGINEERING_MODE+%3A%3A+IMPACT" alt="System boot"/>
 
 # `DINESH BABU M`
 
 ### `CLOUD ENGINEER  •  FULL STACK DEVELOPER  •  DATA ENGINEER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=900&pause=180&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5B+BUILD+%5D+%2F%2F+%5BAUTOMATE%5D+%2F%2F+%5BANALYZE%5D+%2F%2F+%5BDEPLOY%5D;%5BCLOUD%5D+%2F%2F+%5BDATA%5D+%2F%2F+%5BWEB%5D+%2F%2F+%5BOPS%5D;%5BRELIABLE_SYSTEMS%5D+%2F%2F+%5BSMART_AUTOMATION%5D" alt="Terminal status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=800&pause=160&color=39FF14&center=true&vCenter=true&repeat=true&width=950&height=32&lines=%5BBUILD%5D+%5BAUTOMATE%5D+%5BANALYZE%5D+%5BDEPLOY%5D+%5BOPTIMIZE%5D;%5BSCALABLE+SYSTEMS%5D+%2B+%5BRELIABLE+DATA%5D+%2B+%5BSMART+AUTOMATION%5D;%5BCLOUD%5D+%2B+%5BDATA%5D+%2B+%5BAPPLICATIONS%5D+%2B+%5BDEVOPS%5D" alt="Engineering focus"/>
 
-<img src="https://img.shields.io/badge/STATUS-●_ONLINE-00FF41?style=for-the-badge&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-39FF14?style=for-the-badge&logo=amazonaws&logoColor=0B1F14&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/DATA-PYTHON_%7C_SQL-7CFFB2?style=for-the-badge&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-52FF9A?style=for-the-badge&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/●_SYSTEM_ONLINE-39FF14?style=for-the-badge&labelColor=071007&color=123D12"/>
+<img src="https://img.shields.io/badge/CLOUD_ENGINEERING-39FF14?style=for-the-badge&labelColor=071007&color=123D12"/>
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-BD7BFF?style=for-the-badge&labelColor=100A18&color=5B2A86"/>
+<img src="https://img.shields.io/badge/FULL_STACK-39FF14?style=for-the-badge&labelColor=071007&color=123D12"/>
+<img src="https://img.shields.io/badge/AUTOMATION-BD7BFF?style=for-the-badge&labelColor=100A18&color=5B2A86"/>
 
 </div>
 
@@ -19,132 +20,99 @@
 
 <table>
 <tr>
-<td width="23%" valign="top">
+<td width="31%" valign="top">
 
 ```text
-┌─[ TERMINAL ]──────────────┐
-│ root@dinesh:~$            │
-│                           │
-│ > whoami                  │
-│                           │
-│ DINESH BABU M             │
-│ CLOUD / DATA / FULLSTACK  │
-│                           │
-│ > status                  │
-│ ● ONLINE                  │
-│                           │
-│ > mission                 │
-│ BUILD                     │
-│ AUTOMATE                  │
-│ ANALYZE                   │
-│ DEPLOY                    │
-└───────────────────────────┘
+┌─[ TERMINAL ACCESS ]─────────────────┐
+│                                     │
+│ root@dinesh:~$ whoami               │
+│                                     │
+│ DINESH BABU M                       │
+│                                     │
+│ root@dinesh:~$ role                 │
+│                                     │
+│ Cloud Engineer                      │
+│ Full Stack Developer                │
+│ Data Engineer                       │
+│                                     │
+│ root@dinesh:~$ status               │
+│                                     │
+│ SYSTEM  : ● ONLINE                  │
+│ FOCUS   : BUILDING THE FUTURE       │
+│ MODE    : IMPACT                    │
+│                                     │
+│ root@dinesh:~$ mission              │
+│                                     │
+│ BUILD       scalable systems        │
+│ AUTOMATE    repetitive work         │
+│ ANALYZE     meaningful data         │
+│ DEPLOY      with confidence         │
+│ OPTIMIZE    continuously            │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
-### `> QUICK ACCESS`
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-<a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-<a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/SEND_EMAIL-52FF9A?style=for-the-badge&logo=gmail&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-</div>
+### `> ENGINEERING SIGNAL`
 
 ```text
-┌─[ SYSTEM STATS ]──────────┐
-│                           │
-│ CODE ENERGY  ████████░░  │
-│ DATA QUALITY █████████░  │
-│ BUG RESIST.  ████████░░  │
-│ CODE FOCUS   █████████░  │
-│                           │
-└───────────────────────────┘
+PYTHON             ███████████████████░  95%
+SQL / DATABASES    ███████████████████░  95%
+AWS CLOUD          ██████████████████░░  90%
+DATA ENGINEERING   ███████████████████░  92%
+LINUX / DEVOPS     ███████████████████░  98%
+AUTOMATION         ███████████████████░  93%
+BACKEND            █████████████████░░░  88%
+FRONTEND           ████████████████░░░░  85%
+DOCKER             █████████████████░░░  88%
+PROBLEM SOLVING    ███████████████████░  96%
 ```
 
 </td>
 
-<td width="54%" valign="top">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=32&duration=1800&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=850&height=60&lines=DINESH+BABU+M" alt="Name animation"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=800&pause=200&color=7CFFB2&center=true&vCenter=true&repeat=true&width=800&height=25&lines=CLOUD+ENGINEER+%E2%80%A2+FULL+STACK+DEVELOPER+%E2%80%A2+DATA+ENGINEER" alt="Role animation"/>
-
-</div>
+<td width="69%" valign="top">
 
 ```text
-┌─[ system_status --info ]──────────────────────────────────────────┐
-│                                                                   │
-│ USER        :: DINESH BABU M                                     │
-│ ROLE        :: CLOUD ENGINEER / FULL STACK / DATA ENGINEER       │
-│ LOCATION    :: THENI, TAMIL NADU, INDIA                          │
-│ STATUS      :: ● ONLINE                                           │
-│ FOCUS       :: BUILD • AUTOMATE • ANALYZE • DEPLOY               │
-│                                                                   │
-│ MISSION     :: SCALABLE SYSTEMS • RELIABLE DATA • SMART OPS      │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+┌─[ ENGINEERING IDENTITY ]───────────────────────────────────────────┐
+│                                                                    │
+│ USER        :: DINESH BABU M                                      │
+│ ROLE        :: CLOUD / FULL STACK / DATA                           │
+│ LOCATION    :: THENI, TAMIL NADU, INDIA                           │
+│ STATUS      :: ● AVAILABLE FOR IMPACT                              │
+│                                                                    │
+│ EMAIL       :: mpsdinesh1221@gmail.com                             │
+│ GITHUB      :: github.com/Dinesh-babu-M                            │
+│                                                                    │
+│ SPECIALITY  :: TURNING REQUIREMENTS INTO RELIABLE SYSTEMS         │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PYTHON-39FF14?style=for-the-flat-square&logo=python&logoColor=0B1F14&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/SQL-7CFFB2?style=for-the-flat-square&logo=postgresql&logoColor=0B1F14&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/AWS-52FF9A?style=for-the-flat-square&logo=amazonaws&logoColor=0B1F14&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/LINUX-39FF14?style=for-the-flat-square&logo=linux&logoColor=0B1F14&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/AUTOMATION-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
-
-</div>
+## `> THE ENGINEER IN ONE SYSTEM`
 
 ```text
-┌─[ CORE PROFILE ]──────────────────────────────────────────────────┐
-│                                                                   │
-│ IT professional focused on cloud operations, data engineering,   │
-│ software development, database engineering and automation.       │
-│                                                                   │
-│ PRIMARY     :: Python • SQL • AWS • Linux • Docker               │
-│ DATABASES   :: MySQL • PostgreSQL • MongoDB                       │
-│ WEB         :: React • Laravel • HTML • CSS                       │
-│ OPERATIONS  :: Cron • Logs • Monitoring • Automation              │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-</td>
-
-<td width="23%" valign="top">
-
-```text
-┌─[ PROJECT VAULT ]─────────┐
-│                           │
-│ [01] AI SPEAKING TUTOR   │
-│ [02] HR MANAGEMENT       │
-│ [03] PORTFOLIO           │
-│ [04] MY PORTFOLIO        │
-│                           │
-│ > scanning...             │
-│ > loading...              │
-│ > access granted          │
-└───────────────────────────┘
-```
-
-### `> PROJECT STATUS`
-
-```text
-AI TUTOR       [ ONLINE ]
-HR SYSTEM      [ ONLINE ]
-PORTFOLIO      [ ONLINE ]
-AUTOMATION     [ ACTIVE ]
+                    ┌──────────────────────┐
+                    │     DINESH BABU M    │
+                    │                      │
+                    │ CLOUD • DATA • WEB   │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+      ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+      │ CLOUD / OPS  │  │ DATA         │  │ APPLICATIONS │
+      │              │  │ ENGINEERING  │  │              │
+      │ AWS          │  │ ETL / ELT    │  │ React        │
+      │ Linux        │  │ SQL          │  │ Laravel      │
+      │ Docker       │  │ Validation   │  │ APIs         │
+      │ Monitoring   │  │ Pipelines    │  │ UI / UX      │
+      └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │ RELIABLE PRODUCTION  │
+                    │ SYSTEMS              │
+                    └──────────────────────┘
 ```
 
 </td>
@@ -153,345 +121,546 @@ AUTOMATION     [ ACTIVE ]
 
 ---
 
+# `01 // PROJECT SETUP — END TO END`
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=600&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=25&lines=%5B%2B%5D+SCANNING_TECH_STACK...;%5B%2B%5D+LOADING_CLOUD_MODULE...;%5B%2B%5D+LOADING_DATA_MODULE...;%5B%2B%5D+LOADING_AUTOMATION_MODULE...;%5B%2B%5D+ALL_MODULES_READY" alt="Module loader"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=600&pause=120&color=BD7BFF&center=true&vCenter=true&repeat=true&width=950&height=30&lines=%3E+REQUIREMENT+%3E%3E+ARCHITECTURE+%3E%3E+DEVELOPMENT+%3E%3E+DATA+%3E%3E+DEPLOYMENT;%3E+OBSERVE+%3E%3E+VALIDATE+%3E%3E+OPTIMIZE+%3E%3E+SCALE" alt="End to end workflow"/>
 
 </div>
 
-# `01 // THE ENGINEERING STORY`
-
-> **I don't just write code. I build systems that move data, execute work, recover from failure, and keep running.**
-
 ```text
-┌─[ THE STORY ]─────────────────────────────────────────────────────┐
-│                                                                   │
-│ 01  START WITH A PROBLEM                                          │
-│     ↓                                                             │
-│     Understand the business flow before writing the solution.     │
-│                                                                   │
-│ 02  TURN MANUAL WORK INTO A SYSTEM                                │
-│     ↓                                                             │
-│     Python + SQL + APIs + automation replace repetitive work.     │
-│                                                                   │
-│ 03  MAKE DATA TRUSTWORTHY                                         │
-│     ↓                                                             │
-│     Validate → transform → store → verify → report.               │
-│                                                                   │
-│ 04  MOVE THE SYSTEM TO CLOUD                                     │
-│     ↓                                                             │
-│     AWS compute + storage + Linux + Docker create repeatable ops. │
-│                                                                   │
-│ 05  OBSERVE EVERYTHING                                            │
-│     ↓                                                             │
-│     Logs, status checks, monitoring and alerts reveal reality.    │
-│                                                                   │
-│ 06  SCALE THE ENGINE                                              │
-│     ↓                                                             │
-│     Containers, workload management and orchestration reduce     │
-│     manual infrastructure work.                                  │
-│                                                                   │
-│ 07  KEEP IMPROVING                                                 │
-│                                                                   │
-│     BUILD → AUTOMATE → VALIDATE → DEPLOY → MONITOR → OPTIMIZE    │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-### `THE BUILD PHILOSOPHY`
-
-```text
-MANUAL PROCESS
-      │
-      ▼
-UNDERSTAND THE FLOW
-      │
-      ▼
-WRITE THE FIRST VERSION
-      │
-      ▼
-ADD VALIDATION
-      │
-      ▼
-ADD LOGGING
-      │
-      ▼
-AUTOMATE THE REPETITION
-      │
-      ▼
-MOVE TO CLOUD
-      │
-      ▼
-CONTAINERIZE
-      │
-      ▼
-MONITOR
-      │
-      ▼
-SCALE
+┌────────────────────────────────────────────────────────────────────────────┐
+│                     PROJECT DELIVERY WORKFLOW                               │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  01 REQUIREMENT                                                            │
+│       │                                                                    │
+│       ├── Understand business problem                                      │
+│       ├── Identify users, inputs, outputs                                  │
+│       └── Define measurable success criteria                               │
+│       │                                                                    │
+│       ▼                                                                    │
+│  02 ARCHITECTURE                                                           │
+│       │                                                                    │
+│       ├── Design application + data flow                                   │
+│       ├── Select technology and storage                                    │
+│       └── Define security, scalability and failure paths                   │
+│       │                                                                    │
+│       ▼                                                                    │
+│  03 DEVELOPMENT                                                            │
+│       │                                                                    │
+│       ├── Backend / APIs                                                   │
+│       ├── Frontend / user experience                                       │
+│       └── Tests, validation and reusable modules                           │
+│       │                                                                    │
+│       ▼                                                                    │
+│  04 DATA PIPELINE                                                          │
+│       │                                                                    │
+│       ├── Extract → Transform → Validate → Load                            │
+│       ├── Database modelling and query optimization                        │
+│       └── Data quality, lineage and reporting                              │
+│       │                                                                    │
+│       ▼                                                                    │
+│  05 CONTAINERIZE & DEPLOY                                                  │
+│       │                                                                    │
+│       ├── Docker                                                            │
+│       ├── AWS infrastructure                                                │
+│       ├── Environment configuration                                         │
+│       └── Repeatable deployment                                             │
+│       │                                                                    │
+│       ▼                                                                    │
+│  06 MONITOR                                                                │
+│       │                                                                    │
+│       ├── Logs                                                               │
+│       ├── Metrics                                                            │
+│       ├── Alerts                                                             │
+│       └── Operational dashboards                                             │
+│       │                                                                    │
+│       ▼                                                                    │
+│  07 OPTIMIZE & SCALE                                                       │
+│       │                                                                    │
+│       ├── Remove bottlenecks                                                │
+│       ├── Automate repetitive operations                                    │
+│       ├── Improve cost / performance                                        │
+│       └── Scale only where the workload requires it                         │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `02 // DATA ENGINEERING STORY`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BDATA+INGESTION%5D+%3E%3E+%5BVALIDATION%5D+%3E%3E+%5BTRANSFORMATION%5D;%5BTRANSFORMATION%5D+%3E%3E+%5BLOAD%5D+%3E%3E+%5BQUALITY%5D;%5BQUALITY%5D+%3E%3E+%5BREPORTING%5D+%3E%3E+%5BDECISION%5D" alt="Data engineering pipeline"/>
-
-</div>
+# `02 // END-TO-END MIND MAP`
 
 ```text
-┌───────────────────────────────────────────────────────────────────┐
-│                       DATA ENGINEERING FLOW                       │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ SOURCE                                                            │
-│   │                                                               │
-│   ├── APIs                                                        │
-│   ├── Websites                                                    │
-│   ├── CSV / Files                                                 │
-│   ├── SQL Databases                                               │
-│   └── Application Events                                          │
-│   │                                                               │
-│   ▼                                                               │
-│ EXTRACT                                                           │
-│   │                                                               │
-│   ▼                                                               │
-│ VALIDATE                                                          │
-│   │  schema / type / null / duplicate / row-count checks         │
-│   ▼                                                               │
-│ TRANSFORM                                                         │
-│   │  clean / normalize / map / enrich / aggregate                │
-│   ▼                                                               │
-│ LOAD                                                              │
-│   │  MySQL / PostgreSQL / MongoDB / S3                            │
-│   ▼                                                               │
-│ VERIFY                                                            │
-│   │  reconciliation / status / quality gates                      │
-│   ▼                                                               │
-│ REPORT                                                            │
-│   │                                                               │
-│   ▼                                                               │
-│ BUSINESS OUTPUT                                                   │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+                                  ┌─────────────────────┐
+                                  │     BUSINESS GOAL   │
+                                  └──────────┬──────────┘
+                                             │
+                                             ▼
+                                  ┌─────────────────────┐
+                                  │   REQUIREMENTS      │
+                                  │ Scope • Users       │
+                                  │ Inputs • Outputs    │
+                                  └──────────┬──────────┘
+                                             │
+                 ┌───────────────────────────┼───────────────────────────┐
+                 ▼                           ▼                           ▼
+        ┌────────────────┐          ┌────────────────┐          ┌────────────────┐
+        │ APPLICATION    │          │ DATA ENGINE    │          │ CLOUD / DEVOPS │
+        │                │          │                │          │                │
+        │ React          │          │ Extract        │          │ AWS            │
+        │ Laravel        │          │ Transform      │          │ Linux          │
+        │ APIs           │          │ Validate       │          │ Docker         │
+        │ Frontend       │          │ Load           │          │ CI/CD          │
+        └───────┬────────┘          └───────┬────────┘          └───────┬────────┘
+                │                           │                           │
+                └───────────────────────────┼───────────────────────────┘
+                                            ▼
+                                  ┌─────────────────────┐
+                                  │     DATA STORES     │
+                                  │ MySQL / PostgreSQL  │
+                                  │ MongoDB / S3        │
+                                  └──────────┬──────────┘
+                                             │
+                                             ▼
+                                  ┌─────────────────────┐
+                                  │ VALIDATION + QA     │
+                                  │ Quality • Security  │
+                                  │ Consistency         │
+                                  └──────────┬──────────┘
+                                             │
+                                             ▼
+                                  ┌─────────────────────┐
+                                  │ DEPLOYMENT          │
+                                  │ Containers / Cloud  │
+                                  └──────────┬──────────┘
+                                             │
+                                             ▼
+                                  ┌─────────────────────┐
+                                  │ OBSERVABILITY       │
+                                  │ Logs • Metrics      │
+                                  │ Alerts • Reports    │
+                                  └──────────┬──────────┘
+                                             │
+                                             ▼
+                                  ┌─────────────────────┐
+                                  │ OPTIMIZE + SCALE    │
+                                  │ Cost • Speed • SRE   │
+                                  └──────────┬──────────┘
+                                             │
+                                             └──────► CONTINUOUS LOOP
+```
+
+---
+
+# `03 // HOW I BUILD A SYSTEM`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `01 // THINK`
+
+```text
+PROBLEM
+   ↓
+BUSINESS RULES
+   ↓
+DATA FLOW
+   ↓
+SYSTEM BOUNDARIES
+   ↓
+FAILURE CASES
+```
+
+**Principles**
+
+- Understand before coding
+- Design for change
+- Make assumptions explicit
+- Define inputs and outputs
+- Think about failure first
+
+</td>
+
+<td width="33%" valign="top">
+
+### `02 // BUILD`
+
+```text
+ARCHITECT
+   ↓
+DEVELOP
+   ↓
+TEST
+   ↓
+VALIDATE
+   ↓
+CONTAINERIZE
+```
+
+**Principles**
+
+- Small reusable modules
+- Clear interfaces
+- Strong validation
+- Safe database operations
+- Reproducible environments
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03 // OPERATE`
+
+```text
+DEPLOY
+   ↓
+MONITOR
+   ↓
+MEASURE
+   ↓
+OPTIMIZE
+   ↓
+SCALE
+```
+
+**Principles**
+
+- Logs are evidence
+- Metrics reveal behaviour
+- Automation removes repetition
+- Cost matters
+- Reliability is a feature
+
+</td>
+</tr>
+</table>
+
+---
+
+# `04 // CLOUD ENGINEERING + DATA + FULL STACK`
+
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    ONE ENGINEERING LIFECYCLE                            │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│ FULL STACK                                                             │
+│     │                                                                   │
+│     ├── Build the interface                                             │
+│     ├── Build APIs                                                      │
+│     └── Connect users to business logic                                │
+│     │                                                                   │
+│     ▼                                                                   │
+│ DATA ENGINEERING                                                       │
+│     │                                                                   │
+│     ├── Capture data                                                    │
+│     ├── Transform and validate                                          │
+│     ├── Store structured information                                    │
+│     └── Produce trusted outputs                                         │
+│     │                                                                   │
+│     ▼                                                                   │
+│ CLOUD ENGINEERING                                                      │
+│     │                                                                   │
+│     ├── Run workloads                                                   │
+│     ├── Containerize applications                                       │
+│     ├── Manage infrastructure                                           │
+│     ├── Monitor systems                                                 │
+│     └── Optimize reliability and cost                                  │
+│     │                                                                   │
+│     ▼                                                                   │
+│ BUSINESS IMPACT                                                        │
+│                                                                         │
+│     USER → APPLICATION → DATA → CLOUD → OBSERVABILITY → DECISION       │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+> **The three roles are not separate islands.**  
+> Full-stack development creates the product surface, data engineering makes the information trustworthy, and cloud engineering makes the whole system deployable, observable, reliable and scalable.
+
+---
+
+# `05 // DATA ENGINEERING WORKBENCH`
+
+```text
+SOURCE
+  │
+  ├── APIs
+  ├── CSV / Files
+  ├── Databases
+  ├── Applications
+  └── Logs / Streams
+  │
+  ▼
+EXTRACT
+  │
+  ▼
+RAW / LANDING
+  │
+  ▼
+TRANSFORM
+  │
+  ├── Clean
+  ├── Normalize
+  ├── Deduplicate
+  └── Enrich
+  │
+  ▼
+DATA QUALITY GATE
+  │
+  ├── Schema checks
+  ├── Null checks
+  ├── Type checks
+  ├── Row-count checks
+  └── Business-rule validation
+  │
+  ▼
+LOAD
+  │
+  ├── MySQL
+  ├── PostgreSQL
+  ├── MongoDB
+  └── S3
+  │
+  ▼
+REPORT / ANALYZE
+  │
+  ├── Metrics
+  ├── Dashboards
+  ├── Reports
+  └── Decision support
 ```
 
 ### `DATA ENGINEERING PRINCIPLES`
 
 ```text
-DATA QUALITY     → Never trust raw input blindly.
-TRACEABILITY     → Know where every record came from.
-IDEMPOTENCY      → Re-running should not corrupt the result.
-VALIDATION       → Fail early when data is wrong.
-OBSERVABILITY    → Logs should explain what happened.
-REPROCESSING     → Failed work should be recoverable.
-AUTOMATION       → Repetition belongs in the system, not in a person.
+TRUST THE DATA
+       ↓
+VALIDATE THE DATA
+       ↓
+TRACE THE DATA
+       ↓
+AUTOMATE THE DATA FLOW
+       ↓
+MONITOR THE DATA FLOW
+       ↓
+MAKE THE DATA USEFUL
 ```
 
 ---
 
-# `03 // CLOUD ENGINEERING STORY`
+# `06 // CLOUD ENGINEERING WORKBENCH`
 
 ```text
-┌─[ FROM SCRIPT TO CLOUD SYSTEM ]───────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────┐
+│                         CLOUD LAYER                              │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│ COMPUTE       → AWS EC2                                         │
+│ STORAGE       → AWS S3                                          │
+│ OS            → Linux                                           │
+│ CONTAINERS    → Docker                                          │
+│ NETWORKING    → VPC / IAM / SECURITY                            │
+│ AUTOMATION    → Shell / Python / Schedulers                    │
+│ OBSERVABILITY → Logs / Metrics / Alerts                         │
+│ DELIVERY      → Repeatable deployment                           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### `CLOUD DECISION LOOP`
+
+```text
+WORKLOAD
+   ↓
+CAPACITY
+   ↓
+ARCHITECTURE
+   ↓
+SECURITY
+   ↓
+DEPLOY
+   ↓
+OBSERVE
+   ↓
+COST / PERFORMANCE
+   ↓
+OPTIMIZE
+   ↓
+SCALE
+```
+
+---
+
+# `07 // AUTOMATION ENGINE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=550&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5BSCHEDULE%5D+%3E%3E+%5BSCRIPT%5D+%3E%3E+%5BPROCESS%5D+%3E%3E+%5BVALIDATE%5D;%5BLOG%5D+%3E%3E+%5BMONITOR%5D+%3E%3E+%5BREPORT%5D+%3E%3E+%5BREPEAT%5D" alt="Automation engine"/>
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│                       AUTOMATION CORE                            │
+├───────────────────────────────────────────────────────────────────┤
 │                                                                   │
-│ LOCAL SCRIPT                                                       │
-│     ↓                                                             │
-│ SERVER                                                             │
-│     ↓                                                             │
-│ AWS EC2                                                            │
-│     ↓                                                             │
-│ S3 / DATABASE                                                      │
-│     ↓                                                             │
-│ DOCKER CONTAINERS                                                  │
-│     ↓                                                             │
-│ LOGGING + MONITORING                                               │
-│     ↓                                                             │
-│ WORKLOAD MANAGEMENT                                                │
-│     ↓                                                             │
-│ ORCHESTRATION                                                      │
-│     ↓                                                             │
-│ SCALABLE CLOUD PLATFORM                                            │
+│ SCHEDULE                                                          │
+│    ↓                                                              │
+│ PYTHON / SHELL                                                    │
+│    ↓                                                              │
+│ EXTRACT / PROCESS                                                 │
+│    ↓                                                              │
+│ VALIDATE                                                          │
+│    ↓                                                              │
+│ STORE / DELIVER                                                   │
+│    ↓                                                              │
+│ LOG                                                               │
+│    ↓                                                              │
+│ MONITOR                                                           │
+│    ↓                                                              │
+│ REPORT                                                            │
+│    ↓                                                              │
+│ ALERT / RECOVER                                                   │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
 ```
 
-### `CLOUD MINDSET`
+**Automation mindset:**
+
+`MANUAL → SCRIPT → SCHEDULE → VALIDATE → OBSERVE → RECOVER → SCALE`
+
+---
+
+# `08 // SYSTEM ARCHITECTURE`
 
 ```text
-COMPUTE       → Where does the workload run?
-STORAGE       → Where does the data live?
-NETWORK       → How do services communicate?
-CONTAINER     → How do we package the workload?
-SCHEDULING    → When should it run?
-OBSERVABILITY → What is the system doing?
-RECOVERY      → What happens when it fails?
-SCALING       → What happens when workload increases?
-COST          → Can the same workload run more efficiently?
+                              ┌─────────────┐
+                              │    USERS    │
+                              └──────┬──────┘
+                                     │
+                                     ▼
+                           ┌──────────────────┐
+                           │   WEB / APP      │
+                           │ React / HTML     │
+                           └────────┬─────────┘
+                                    │
+                                    ▼
+                           ┌──────────────────┐
+                           │ API / BACKEND    │
+                           │ Python / Laravel │
+                           └───────┬──────────┘
+                                   │
+                    ┌──────────────┼──────────────┐
+                    ▼              ▼              ▼
+             ┌────────────┐ ┌────────────┐ ┌────────────┐
+             │ DATA       │ │ BUSINESS   │ │ CLOUD OPS  │
+             │ PIPELINE   │ │ LOGIC      │ │            │
+             │ ETL / ELT  │ │ APIs       │ │ AWS/Docker │
+             └─────┬──────┘ └────────────┘ └─────┬──────┘
+                   │                              │
+                   ▼                              ▼
+             ┌────────────┐                 ┌────────────┐
+             │ DATA STORE │                 │ MONITORING │
+             │ SQL/NoSQL  │                 │ Logs/Alert │
+             │ S3         │                 │ Metrics    │
+             └─────┬──────┘                 └─────┬──────┘
+                   │                              │
+                   └──────────────┬───────────────┘
+                                  ▼
+                         ┌──────────────────┐
+                         │ REPORT / INSIGHT │
+                         │ DECISION SUPPORT │
+                         └──────────────────┘
 ```
 
 ---
 
-# `04 // TECH STACK`
+# `09 // TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,aws,linux,docker,git,postman,react,laravel,html,css,js,bash&theme=dark" alt="Technology stack"/>
+
+</div>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="20%" valign="top">
-
-### `CLOUD`
+### `LANGUAGES`
 
 ```text
-☁ AWS EC2
-☁ AWS S3
-☁ Linux
-☁ Docker
-☁ Cron
-☁ Logs
+Python
+SQL
+JavaScript
+PHP
+Bash / Shell
+```
+
+### `DATA ENGINEERING`
+
+```text
+Pandas
+NumPy
+ETL / ELT
+Data Validation
+Data Transformation
+Data Reporting
+SQL Analytics
+```
+
+### `DATABASES`
+
+```text
+MySQL
+PostgreSQL
+MongoDB
+S3
 ```
 
 </td>
 
-<td width="20%" valign="top">
+<td width="50%" valign="top">
 
-### `PYTHON`
+### `CLOUD / DEVOPS`
 
 ```text
-> Python
-> Pandas
-> Requests
-> BeautifulSoup
-> Automation
-> APIs
+AWS EC2
+AWS S3
+Linux
+Docker
+Git / GitHub
+CI / CD concepts
+Monitoring
+Logging
 ```
 
-</td>
-
-<td width="20%" valign="top">
-
-### `DATA`
+### `WEB / APPLICATION`
 
 ```text
-DB MySQL
-DB PostgreSQL
-DB MongoDB
-ETL
-Validation
-Reporting
-```
-
-</td>
-
-<td width="20%" valign="top">
-
-### `TOOLS`
-
-```text
-Git
-JIRA
-Postman
-Excel
-VS Code
-Shell
-```
-
-</td>
-
-<td width="20%" valign="top">
-
-### `WEB`
-
-```text
+React
+Laravel
+REST APIs
+GraphQL
+Tailwind CSS
 HTML
 CSS
 JavaScript
-React
-Laravel
-Tailwind CSS
 ```
 
-</td>
-
-</tr>
-</table>
-
----
-
-# `05 // SYSTEM ARCHITECTURE`
-
-<div align="center">
+### `ENGINEERING TOOLS`
 
 ```text
-┌────────────┐      ┌──────────────┐      ┌──────────────┐
-│    USER    │ ───► │  WEB / APP   │ ───► │ API / BACKEND│
-└────────────┘      │ React / HTML │      │ Python/Laravel│
-                    └──────────────┘      └───────┬──────┘
-                                                  │
-                           ┌──────────────────────┴────────────────────┐
-                           │                                           │
-                           ▼                                           ▼
-                    ┌──────────────┐                           ┌──────────────┐
-                    │   DATA LAYER │                           │   CLOUD OPS  │
-                    │ SQL / NoSQL  │                           │ AWS / Docker │
-                    └──────┬───────┘                           └──────┬───────┘
-                           │                                           │
-                           └──────────────────┬────────────────────────┘
-                                              ▼
-                                    ┌──────────────────┐
-                                    │ MONITOR / LOGS   │
-                                    │ VALIDATE / ALERT │
-                                    └──────────────────┘
-```
-
-</div>
-
----
-
-# `06 // CORE COMPETENCIES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```text
-┌─[ ENGINEERING SIGNAL ]─────────────────────────┐
-│                                                │
-│ PYTHON        ████████████████████  READY     │
-│ SQL           ████████████████████  READY     │
-│ AWS           ███████████████████░  READY     │
-│ LINUX         ███████████████████░  READY     │
-│ DATA          ███████████████████░  READY     │
-│ AUTOMATION    ███████████████████░  READY     │
-│ DATABASES     ███████████████████░  READY     │
-│ WEB           █████████████████░░░  BUILD     │
-│ DOCKER        ████████████████░░░░  BUILD     │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ CODE MODE ]──────────────────────────────────┐
-│                                                │
-│ while (building) {                            │
-│                                                │
-│   learn();                                     │
-│   build();                                     │
-│   automate();                                  │
-│   validate();                                  │
-│   optimize();                                  │
-│   deploy();                                    │
-│   repeat();                                    │
-│                                                │
-│ }                                              │
-│                                                │
-│ // never stop improving                        │
-└────────────────────────────────────────────────┘
+VS Code
+Postman
+JIRA
+Excel
+Linux Shell
+Git
 ```
 
 </td>
@@ -500,566 +669,27 @@ Tailwind CSS
 
 ---
 
-# `07 // AUTOMATION LAB`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=550&pause=120&color=7CFFB2&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BTRIGGER%5D+%3E%3E+%5BEXECUTE%5D+%3E%3E+%5BVALIDATE%5D;%5BLOG%5D+%3E%3E+%5BMONITOR%5D+%3E%3E+%5BREPORT%5D;%5BAUTOMATION%5D+%3E%3E+%5BNO_MANUAL_REPETITION%5D" alt="Automation pipeline"/>
-
-</div>
+# `10 // PRODUCTION ENGINEERING CHECKLIST`
 
 ```text
-┌───────────────────────────────────────────────────────────────────┐
-│                        AUTOMATION CORE                            │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│  MANUAL TASK                                                     │
-│       │                                                           │
-│       ▼                                                           │
-│  PYTHON / SHELL SCRIPT                                           │
-│       │                                                           │
-│       ▼                                                           │
-│  SCHEDULE / CRON                                                  │
-│       │                                                           │
-│       ▼                                                           │
-│  EXECUTE                                                          │
-│       │                                                           │
-│       ▼                                                           │
-│  VALIDATE                                                         │
-│       │                                                           │
-│       ▼                                                           │
-│  LOG / MONITOR                                                    │
-│       │                                                           │
-│       ▼                                                           │
-│  REPORT                                                           │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `08 // DATA QUALITY GATE`
-
-<div align="center">
-
-```text
-RAW DATA
-   │
-   ▼
-┌───────────────┐
-│ FORMAT CHECK  │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ VALIDATE DATA │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ TRANSFORM     │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ DATABASE LOAD │
-└───────┬───────┘
-        ▼
-┌───────────────┐
-│ OUTPUT CHECK  │
-└───────┬───────┘
-        ▼
-     REPORT
-```
-
-</div>
-
-```text
-IF DATA == INVALID:
-    STOP
-    LOG()
-    INVESTIGATE()
-    FIX()
-    REPROCESS()
-
-ELSE:
-    LOAD()
-    VERIFY()
-    REPORT()
-```
-
-`ACCURACY` • `CONSISTENCY` • `VALIDATION` • `TRACEABILITY` • `REPEATABILITY`
-
----
-
-# `09 // PROJECT VAULT`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+OPENING_PROJECT_VAULT...;%3E+SCANNING_REPOSITORIES...;%3E+PROJECTS_FOUND...;%3E+ACCESS_GRANTED" alt="Project vault"/>
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ 01 // AI ENGLISH SPEAKING TUTOR ]────────────┐
-│                                                │
-│ STACK                                          │
-│ React                                          │
-│ TailwindCSS / Chakra UI                        │
-│ Web Speech API                                 │
-│ OpenAI Whisper                                 │
-│ OpenAI GPT                                     │
-│ Redux Toolkit                                  │
-│                                                │
-│ AI-assisted speaking platform focused on      │
-│ speech practice, pronunciation feedback,      │
-│ vocabulary and progress tracking.              │
-│                                                │
-│ STATUS :: ● ONLINE                             │
-└────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M/hero_learning-platform">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ 02 // HR MANAGEMENT APPLICATION ]───────────┐
-│                                                │
-│ STACK                                          │
-│ Laravel                                       │
-│ PHP                                            │
-│ Vite                                           │
-│ TailwindCSS                                    │
-│                                                │
-│ Application repository covering database,     │
-│ routing, testing and frontend configuration.  │
-│                                                │
-│ STATUS :: ● ONLINE                             │
-└────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M/hr-project">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ 03 // PORTFOLIO ]───────────────────────────┐
-│                                                │
-│ STACK                                          │
-│ JavaScript                                     │
-│ HTML                                           │
-│ CSS                                            │
-│                                                │
-│ Personal portfolio and web development        │
-│ repository.                                   │
-│                                                │
-│ STATUS :: ● ONLINE                             │
-└────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M/Portfolio">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-52FF9A?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ 04 // MY PORTFOLIO ]────────────────────────┐
-│                                                │
-│ STACK                                          │
-│ CSS                                            │
-│ HTML                                           │
-│ JavaScript                                     │
-│                                                │
-│ Portfolio-oriented frontend repository.      │
-│                                                │
-│ STATUS :: ● ONLINE                             │
-└────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M/my-portfolio">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/>>>_VIEW_ALL_PROJECTS_ON_GITHUB_<<<-7CFFB2?style=for-the-badge&labelColor=0B1F14"/>
-</a>
-
-</div>
-
----
-
-# `10 // CLOUD + DEVOPS`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ CLOUD CONTROL ]──────────────────────────────┐
-│                                                │
-│ AWS EC2       → COMPUTE                       │
-│ AWS S3        → STORAGE / DELIVERY            │
-│ Linux         → SYSTEM OPS                    │
-│ Docker        → CONTAINERS                    │
-│ Cron          → SCHEDULING                    │
-│ Logs          → OBSERVABILITY                 │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-```text
-┌─[ OPERATIONS ]─────────────────────────────────┐
-│                                                │
-│ DEPLOY       → RUN                             │
-│ MONITOR      → WATCH                           │
-│ VALIDATE     → VERIFY                          │
-│ TROUBLESHOOT → FIX                             │
-│ AUTOMATE     → REPEAT                          │
-│ OPTIMIZE     → IMPROVE                         │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `11 // ENGINEERING MINDSET`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01_ANALYZE-39FF14?style=for-the-flat-square&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/02_DESIGN-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/03_BUILD-52FF9A?style=for-the-flat-square&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/04_AUTOMATE-39FF14?style=for-the-flat-square&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/05_DEPLOY-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
-<img src="https://img.shields.io/badge/06_MONITOR-52FF9A?style=for-the-flat-square&labelColor=0B1F14"/>
-
-```text
-PROBLEM
-   │
-   ▼
-ANALYZE
-   │
-   ▼
-DESIGN
-   │
-   ▼
-BUILD
-   │
-   ▼
-AUTOMATE
-   │
-   ▼
-VALIDATE
-   │
-   ▼
-DEPLOY
-   │
-   ▼
-MONITOR
-   │
-   ▼
-OPTIMIZE
-   │
-   └──────────────► REPEAT
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=600&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+ANALYZE_THE_PROBLEM...;%3E+DESIGN_THE_WORKFLOW...;%3E+BUILD_THE_SOLUTION...;%3E+AUTOMATE_THE_REPETITION...;%3E+VALIDATE_THE_OUTPUT...;%3E+MONITOR_THE_SYSTEM...;%3E+OPTIMIZE_AND_REPEAT..." alt="Engineering mindset animation"/>
-
-</div>
-
----
-
-# `12 // ENGINEERING TOOLBOX`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,aws,linux,docker,git,postman,react,laravel,html,css,js,bash&theme=dark" alt="Technology icons"/>
-
-</div>
-
-```text
-┌─[ LANGUAGES ]─────────────────────────────────────────────────────┐
-│ Python • SQL • Shell                                              │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[ PYTHON ]────────────────────────────────────────────────────────┐
-│ Pandas • Requests • BeautifulSoup • Automation • APIs             │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[ DATABASES ]─────────────────────────────────────────────────────┐
-│ MySQL • PostgreSQL • MongoDB                                      │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[ CLOUD / OPS ]───────────────────────────────────────────────────┐
-│ AWS EC2 • AWS S3 • Linux • Docker • Cron • Monitoring             │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[ WEB ]───────────────────────────────────────────────────────────┐
-│ React • Laravel • JavaScript • HTML • CSS                         │
-└───────────────────────────────────────────────────────────────────┘
-
-┌─[ TOOLS ]─────────────────────────────────────────────────────────┐
-│ Git • Postman • JIRA • Excel • VS Code                            │
-└───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `13 // PRODUCTION WORKFLOW`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     PRODUCTION PIPELINE                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  01  REQUIREMENT                                             │
-│   ↓                                                          │
-│  02  EXTRACT                                                 │
-│   ↓                                                          │
-│  03  VALIDATE                                                │
-│   ↓                                                          │
-│  04  TRANSFORM                                               │
-│   ↓                                                          │
-│  05  LOAD                                                    │
-│   ↓                                                          │
-│  06  AUTOMATE                                                │
-│   ↓                                                          │
-│  07  DEPLOY                                                  │
-│   ↓                                                          │
-│  08  MONITOR                                                 │
-│   ↓                                                          │
-│  09  REPORT                                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=550&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%3E+EXTRACT;%3E+VALIDATE;%3E+TRANSFORM;%3E+LOAD;%3E+AUTOMATE;%3E+DEPLOY;%3E+MONITOR;%3E+REPORT" alt="Production animation"/>
-
-</div>
-
----
-
-# `14 // PROBLEM SOLVING PROTOCOL`
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                    DEBUGGING PROTOCOL                             │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ [01] REPRODUCE THE ISSUE                                         │
-│       ↓                                                           │
-│ [02] CHECK LOGS / INPUT / DATABASE                               │
-│       ↓                                                           │
-│ [03] ISOLATE THE FAILURE POINT                                   │
-│       ↓                                                           │
-│ [04] APPLY THE SMALLEST RELIABLE FIX                             │
-│       ↓                                                           │
-│ [05] VALIDATE THE OUTPUT                                         │
-│       ↓                                                           │
-│ [06] AUTOMATE THE PREVENTION                                     │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-```text
-RELIABILITY       > COMPLEXITY
-AUTOMATION        > REPETITION
-VALIDATION        > ASSUMPTION
-LOGGING           > GUESSING
-ROOT CAUSE        > QUICK PATCH
-REPEATABILITY     > MANUAL WORK
-```
-
----
-
-# `15 // WHAT I BUILD`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `DATA SYSTEMS`
-
-```text
-▸ ETL pipelines
-▸ Data validation
-▸ SQL workflows
-▸ File processing
-▸ Data reconciliation
-▸ Reporting systems
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### `CLOUD SYSTEMS`
-
-```text
-▸ AWS workloads
-▸ EC2 automation
-▸ S3 delivery
-▸ Linux operations
-▸ Docker workloads
-▸ Cloud monitoring
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### `SOFTWARE`
-
-```text
-▸ Python automation
-▸ REST APIs
-▸ React interfaces
-▸ Laravel apps
-▸ Database systems
-▸ Internal tools
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# `16 // SYSTEM DESIGN PRINCIPLES`
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                        DESIGN CHECKLIST                           │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ [✓] CAN IT RUN WITHOUT MANUAL INTERVENTION?                       │
-│ [✓] CAN WE VALIDATE THE INPUT?                                    │
-│ [✓] CAN WE SEE WHAT HAPPENED?                                     │
-│ [✓] CAN WE RECOVER FROM FAILURE?                                  │
-│ [✓] CAN WE REPROCESS SAFELY?                                      │
-│ [✓] CAN WE SCALE THE WORKLOAD?                                    │
-│ [✓] CAN WE REDUCE OPERATING COST?                                 │
-│ [✓] CAN ANOTHER ENGINEER UNDERSTAND IT?                           │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `17 // CURRENT DIRECTIVE`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=700&pause=150&color=7CFFB2&center=true&vCenter=true&repeat=true&width=900&height=34&lines=%5B+NEXT_LEVEL+%5D;%5BCLOUD%5D+%3E%3E+SCALE;%5BDATA%5D+%3E%3E+RELIABILITY;%5BAUTOMATION%5D+%3E%3E+ZERO_REPETITION;%5BDEVOPS%5D+%3E%3E+OBSERVABILITY" alt="Current directive"/>
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│                         NEXT LEVEL                                │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ CLOUD       → AWS / CLOUD OPERATIONS / DEVOPS                     │
-│ DATA        → PROCESSING / VALIDATION / PIPELINES                 │
-│ SOFTWARE    → FULL STACK / APPLICATION DEVELOPMENT                │
-│ AUTOMATION  → PYTHON / SCHEDULING / MONITORING                    │
-│ CONTAINERS  → DOCKER / WORKLOAD MANAGEMENT                        │
-│                                                                   │
-│ TARGET      → PRODUCTION SYSTEMS                                  │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `18 // SECURE CHANNEL`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BINCOMING_CONNECTION...%5D;%5BCHANNEL_SECURED%5D;%5BIDENTITY_VERIFIED%5D;%5BREADY_FOR_COLLABORATION%5D" alt="Secure channel"/>
-
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│ USER      :: DINESH BABU M                                        │
-│ ROLE      :: CLOUD / FULL STACK / DATA                            │
-│ EMAIL     :: mpsdinesh1221@gmail.com                              │
-│ GITHUB    :: Dinesh-babu-M                                        │
-│ STATUS    :: ● READY                                              │
-└───────────────────────────────────────────────────────────────────┘
-```
-
-<a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/SEND_EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-<a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=36&lines=%5BBUILD%5D;%5BAUTOMATE%5D;%5BDEPLOY%5D;%5BMONITOR%5D;%5BOPTIMIZE%5D;%5BREPEAT%5D" alt="Engineering cycle"/>
-
-### `● SYSTEM ONLINE // CHANNEL OPEN // LET'S BUILD`
-
-</div>
-
-<!--
-PROFILE DESIGN
-- Light green hacker / terminal aesthetic.
-- Uses green-on-dark accents instead of white-heavy buttons.
-- Storytelling sections explain the progression from problem → system → data → cloud → automation → scale.
-- GitHub-native contribution activity and popular repository sections are intentionally not duplicated.
--->
+┌────────────────────────────────────────────────────────────────────┐
+│                    BEFORE PRODUCTION                              │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│ [✓] Requirement understood                                         │
+│ [✓] Architecture documented                                        │
+│ [✓] Data flow identified                                           │
+│ [✓] Error paths considered                                         │
+│ [✓] Input validation implemented                                   │
+│ [✓] Database operations verified                                   │
+│ [✓] Logs available                                                 │
+│ [✓] Configuration separated                                        │
+│ [✓] Secrets protected                                              │
+│ [✓] Deployment repeatable                                          │
+│ [✓] Monitoring enabled                                             │
+│ [✓] Alerts defined                                                 │
+│ [✓] Recovery path considered                                       │
+│ [✓] Performance checked                                            │
+│ [✓] Cost reviewed                                                  │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
