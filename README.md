@@ -8,11 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=900&pause=180&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5B+BUILD+%5D+%5B+AUTOMATE+%5D+%5B+ANALYZE+%5D+%5B+DEPLOY+%5D+%5B+OPTIMIZE+%5D;%5BCLOUD%5D+%2F%2F+%5BDATA%5D+%2F%2F+%5BWEB%5D+%2F%2F+%5BOPS%5D;%5BRELIABLE_SYSTEMS%5D+%2F%2F+%5BSMART_AUTOMATION%5D+%2F%2F+%5BDATA_QUALITY%5D" alt="Engineering command line"/>
 
-<img src="https://img.shields.io/badge/STATUS-●_ONLINE-C084FC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-C084FC?style=for-the-badge&logo=amazonaws&logoColor=C084FC&labelColor=000000"/>
-<img src="https://img.shields.io/badge/DATA-PYTHON_%7C_SQL-C084FC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-C084FC?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ENGINEERING-PRODUCTION_FOCUSED-C084FC?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-●_ONLINE-E9D5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-E9D5FF?style=for-the-badge&logo=amazonaws&logoColor=7C3AED&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DATA-PYTHON_%7C_SQL-E9D5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-E9D5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ENGINEERING-PRODUCTION_FOCUSED-E9D5FF?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
