@@ -69,8 +69,8 @@
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=1800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=850&height=60&lines=DINESH+BABU+M" alt="Name animation"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=800&pause=200&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=25&lines=CLOUD+%7C+DATA+%7C+FULL+STACK+%7C+AUTOMATION+%7C+DEVOPS" alt="Role animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=30&duration=3000&pause=1600&color=52FF9A&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%5B%5E_%5D+DINESH+BABU+M;%5B%2B%5D+DINESH+BABU+M;%5BROOT%5D%3A%3A+DINESH+BABU+M" alt="Identity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=12&duration=2400&pause=1300&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%3E%3E+CLOUD+ENGINEERING;%3E%3E+DATA+ENGINEERING;%3E%3E+FULL+STACK+DEVELOPMENT;%3E%3E+AUTOMATION+%26+DEVOPS;%3E%3E+PRODUCTION+SYSTEMS" alt="Role System"/>
 </div>
 
 <font color="#A855F7"><b>SYSTEM PROFILE</b></font>
