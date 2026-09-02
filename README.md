@@ -20,31 +20,33 @@
 <tr>
 <td width="25%" valign="top">
 
-<font color="#A855F7"><b>TERMINAL ACCESS</b></font>
+<font color="#C084FC"><b>TERMINAL ACCESS</b></font>
 
-<pre><font color="#39FF14">root@dinesh:~$ whoami
+<pre>
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">whoami</font>
 
-DINESH BABU M
+<font color="#52FF9A">DINESH BABU M</font>
 
-root@dinesh:~$ role
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">role</font>
 
-Cloud Engineer
-Full Stack Developer
-Data Engineer
+<font color="#52FF9A">Cloud Engineer</font>
+<font color="#C084FC">Full Stack Developer</font>
+<font color="#52FF9A">Data Engineer</font>
 
-root@dinesh:~$ mission
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">mission</font>
 
-BUILD       scalable systems
-AUTOMATE    repetitive work
-ANALYZE     meaningful data
-DEPLOY      reliable services
-OPTIMIZE    continuously
+<font color="#52FF9A">BUILD</font>       scalable systems
+<font color="#C084FC">AUTOMATE</font>    repetitive work
+<font color="#52FF9A">ANALYZE</font>     meaningful data
+<font color="#C084FC">DEPLOY</font>      reliable services
+<font color="#52FF9A">OPTIMIZE</font>    continuously
 
-root@dinesh:~$ status
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">status</font>
 
-SYSTEM : ONLINE
-MODE   : ENGINEERING
-FOCUS  : IMPACT</font></pre>
+<font color="#52FF9A">SYSTEM</font> : <font color="#C084FC">ONLINE</font>
+<font color="#52FF9A">MODE</font>   : <font color="#C084FC">ENGINEERING</font>
+<font color="#52FF9A">FOCUS</font>  : <font color="#C084FC">IMPACT</font>
+</pre>
 
 <font color="#A855F7"><b>QUICK ACCESS</b></font>
 
