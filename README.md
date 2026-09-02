@@ -74,19 +74,27 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=22&duration=2400&pause=1300&color=C084FC&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=%E2%98%81%EF%B8%8F+%3E%3E+CLOUD+ENGINEERING;%F0%9F%93%8A+%3E%3E+DATA+ENGINEERING;%F0%9F%92%BB+%3E%3E+FULL+STACK+DEVELOPMENT;%E2%9A%99%EF%B8%8F+%3E%3E+AUTOMATION+%26+DEVOPS;%F0%9F%9A%80+%3E%3E+PRODUCTION+SYSTEMS" alt="Role System"/>
 </div>
 
-<font color="#A855F7"><b>SYSTEM PROFILE</b></font>
+<p align="center">
+  <font color="#C084FC"><b>SYSTEM PROFILE</b></font>
+</p>
 
-<pre><font color="#39FF14">USER        :: DINESH BABU M
-ROLE        :: CLOUD / FULL STACK / DATA
-LOCATION    :: THENI, TAMIL NADU, INDIA
-STATUS      :: ● ONLINE
+<pre>
+<font color="#52FF9A">USER</font>        :: <font color="#C084FC">DINESH BABU M</font>
+<font color="#52FF9A">ROLE</font>        :: <font color="#C084FC">CLOUD / FULL STACK / DATA</font>
+<font color="#52FF9A">LOCATION</font>    :: <font color="#C084FC">THENI, TAMIL NADU, INDIA</font>
+<font color="#52FF9A">STATUS</font>      :: <font color="#52FF9A">● ONLINE</font>
 
-PRIMARY     :: Python • SQL • AWS • Linux • Docker
-DATA        :: ETL • Validation • Processing • Reporting
-WEB         :: React • Laravel • JavaScript • REST APIs
-OPS         :: Cron • Logs • Monitoring • Automation
+<font color="#52FF9A">PRIMARY</font>     :: <font color="#C084FC">Python • SQL • AWS • Linux • Docker</font>
+<font color="#52FF9A">DATA</font>        :: <font color="#C084FC">ETL • Validation • Processing • Reporting</font>
+<font color="#52FF9A">WEB</font>         :: <font color="#C084FC">React • Laravel • JavaScript • REST APIs</font>
+<font color="#52FF9A">OPS</font>         :: <font color="#C084FC">Cron • Logs • Monitoring • Automation</font>
 
-MISSION     :: BUILD • AUTOMATE • DEPLOY • MONITOR • SCALE</font></pre>
+<font color="#52FF9A">MISSION</font>     :: <font color="#C084FC">BUILD • AUTOMATE • DEPLOY • MONITOR • SCALE</font>
+</pre>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=13&duration=1800&pause=700&color=52FF9A&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%3E%3E+PROFILE_CORE+%3A%3A+ACTIVE;%3E%3E+CLOUD_LAYER+%3A%3A+ONLINE;%3E%3E+DATA_LAYER+%3A%3A+PROCESSING;%3E%3E+AUTOMATION+%3A%3A+RUNNING;%3E%3E+SYSTEM+STATUS+%3A%3A+%E2%97%8F+ONLINE" alt="System Profile Animation"/>
+</p>
 
 <font color="#A855F7"><b>ENGINEERING SUMMARY</b></font>
 
