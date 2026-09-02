@@ -93,7 +93,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=13&duration=1800&pause=700&color=52FF9A&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%3E%3E+PROFILE_CORE+%3A%3A+ACTIVE;%3E%3E+CLOUD_LAYER+%3A%3A+ONLINE;%3E%3E+DATA_LAYER+%3A%3A+PROCESSING;%3E%3E+AUTOMATION+%3A%3A+RUNNING;%3E%3E+SYSTEM+STATUS+%3A%3A+%E2%97%8F+ONLINE" alt="System Profile Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=22&duration=1800&pause=700&color=52FF9A&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=%3E%3E+PROFILE_CORE+%3A%3A+ACTIVE;%3E%3E+CLOUD_LAYER+%3A%3A+ONLINE;%3E%3E+DATA_LAYER+%3A%3A+PROCESSING;%3E%3E+AUTOMATION+%3A%3A+RUNNING;%3E%3E+SYSTEM_STATUS+%3A%3A+%E2%97%8F+ONLINE" alt="System Profile Animation"/>
 </p>
 
 <font color="#A855F7"><b>ENGINEERING SUMMARY</b></font>
