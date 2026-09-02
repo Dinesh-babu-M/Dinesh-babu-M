@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=650&pause=120&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=26&lines=%3E%3E+SYSTEM_BOOT+%3A%3A+INITIALIZING_PROFILE...;%3E%3E+NETWORK_LINK+%3A%3A+CONNECTED;%3E%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E%3E+DATA_PIPELINE+%3A%3A+READY;%3E%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E%3E+PROFILE_STATUS+%3A%3A+ONLINE" alt="System boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=2500&pause=1500&color=52FF9A&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5B+%2B+%5D+ACCESSING+ENGINEERING_CORE...;%5B+%2B+%5D+LOADING+CLOUD_MODULE...;%5B+%2B+%5D+CONNECTING+DATA_PIPELINES...;%5B+%2B+%5D+STARTING+AUTOMATION_ENGINE...;%5B+%2B+%5D+ALL+SYSTEMS+OPERATIONAL...;%5B+%E2%9C%93+%5D+DINESH_OS+ONLINE" alt="Engineering System"/>
 
 # <font color="#A855F7">DINESH BABU M</font>
 
