@@ -23,17 +23,17 @@
 <font color="#C084FC"><b>TERMINAL ACCESS</b></font>
 
 <pre>
-<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">whoami</font>
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">whoami</font> <font color="#52FF9A">&gt;</font>
 
 <font color="#52FF9A">DINESH BABU M</font>
 
-<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">role</font>
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">role</font> <font color="#52FF9A">&gt;</font>
 
 <font color="#52FF9A">Cloud Engineer</font>
 <font color="#C084FC">Full Stack Developer</font>
 <font color="#52FF9A">Data Engineer</font>
 
-<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">mission</font>
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">mission</font> <font color="#52FF9A">&gt;</font>
 
 <font color="#52FF9A">BUILD</font>       scalable systems
 <font color="#C084FC">AUTOMATE</font>    repetitive work
@@ -41,7 +41,7 @@
 <font color="#C084FC">DEPLOY</font>      reliable services
 <font color="#52FF9A">OPTIMIZE</font>    continuously
 
-<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">status</font>
+<font color="#52FF9A">root@dinesh:~$</font> <font color="#C084FC">status</font> <font color="#52FF9A">&gt;</font>
 
 <font color="#52FF9A">SYSTEM</font> : <font color="#C084FC">ONLINE</font>
 <font color="#52FF9A">MODE</font>   : <font color="#C084FC">ENGINEERING</font>
