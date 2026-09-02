@@ -49,9 +49,17 @@ FOCUS  : IMPACT</font></pre>
 <font color="#A855F7"><b>QUICK ACCESS</b></font>
 
 <div align="center">
-<a href="https://github.com/Dinesh-babu-M"><img src="https://img.shields.io/badge/GITHUB-52FF9Astyle=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000"/></a>
-<a href="https://github.com/Dinesh-babu-M?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-7CFFB2?style=for-the-badge&logo=github&logoColor=7CFFB2&labelColor=000000"/></a>
-<a href="mailto:mpsdinesh1221@gmail.com"><img src="https://img.shields.io/badge/EMAIL-52FF9A?style=for-the-badge&logo=gmail&logoColor=52FF9A&labelColor=000000"/></a>
+<a href="https://github.com/Dinesh-babu-M">
+<img src="https://img.shields.io/badge/GITHUB-52FF9A?style=for-the-badge&logo=github&logoColor=52FF9A&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/Dinesh-babu-M?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-C084FC?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=000000"/>
+</a>
+
+<a href="mailto:mpsdinesh1221@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-52FF9A?style=for-the-badge&logo=gmail&logoColor=52FF9A&labelColor=000000"/>
+</a>
 </div>
 
 </td>
