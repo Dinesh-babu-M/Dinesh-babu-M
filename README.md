@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=650&pause=120&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=26&lines=%3E%3E+BOOT_SEQUENCE+%3A%3A+INITIALIZING...;%3E%3E+NETWORK_LINK+%3A%3A+CONNECTED;%3E%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E%3E+DATA_PIPELINE+%3A%3A+READY;%3E%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E%3E+PROFILE_STATUS+%3A%3A+ONLINE" alt="Boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=650&pause=120&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=26&lines=%3E%3E+BOOT_SEQUENCE+%3A%3A+INITIALIZING...;%3E%3E+NETWORK_LINK+%3A%3A+CONNECTED;%3E%3E+CLOUD_CORE+%3A%3A+ONLINE;%3E%3E+DATA_PIPELINE+%3A%3A+READY;%3E%3E+AUTOMATION_ENGINE+%3A%3A+ACTIVE;%3E%3E+PROFILE_STATUS+%3A%3A+ONLINE" alt="Boot sequence"/>
 
 # `DINESH BABU M`
 
@@ -8,10 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=900&pause=180&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5B+BUILD+%5D+%2F%2F+%5BAUTOMATE%5D+%2F%2F+%5BANALYZE%5D+%2F%2F+%5BDEPLOY%5D;%5BCLOUD%5D+%2F%2F+%5BDATA%5D+%2F%2F+%5BWEB%5D+%2F%2F+%5BOPS%5D;%5BRELIABLE_SYSTEMS%5D+%2F%2F+%5BSMART_AUTOMATION%5D" alt="Terminal status"/>
 
-<img src="https://img.shields.io/badge/STATUS-●_ONLINE-00FF41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-00F7FF?style=for-the-badge&logo=amazonaws&logoColor=00F7FF&labelColor=050505"/>
-<img src="https://img.shields.io/badge/DATA-PYTHON_%7C_SQL-B026FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-FFB000?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/STATUS-●_ONLINE-00FF41?style=for-the-badge&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-39FF14?style=for-the-badge&logo=amazonaws&logoColor=0B1F14&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/DATA-PYTHON_%7C_SQL-7CFFB2?style=for-the-badge&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/AUTOMATION-ACTIVE-52FF9A?style=for-the-badge&labelColor=0B1F14"/>
 
 </div>
 
@@ -27,13 +27,13 @@
 │                           │
 │ > whoami                  │
 │                           │
-│ DINESH BABU M              │
+│ DINESH BABU M             │
 │ CLOUD / DATA / FULLSTACK  │
 │                           │
 │ > status                  │
 │ ● ONLINE                  │
 │                           │
-│ > mission                │
+│ > mission                 │
 │ BUILD                     │
 │ AUTOMATE                  │
 │ ANALYZE                   │
@@ -43,24 +43,18 @@
 
 ### `> QUICK ACCESS`
 
-```text
-[01] GITHUB PROFILE
-[02] PROJECT VAULT
-[03] EMAIL CHANNEL
-```
-
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-B026FF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 <a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/SEND_EMAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SEND_EMAIL-52FF9A?style=for-the-badge&logo=gmail&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 </div>
@@ -82,9 +76,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=32&duration=1800&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=DINESH+BABU+M" alt="Name animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=32&duration=1800&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=850&height=60&lines=DINESH+BABU+M" alt="Name animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=800&pause=200&color=8B8B8B&center=true&vCenter=true&repeat=true&width=800&height=25&lines=CLOUD+ENGINEER+%E2%80%A2+FULL+STACK+DEVELOPER+%E2%80%A2+DATA+ENGINEER" alt="Role animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=11&duration=800&pause=200&color=7CFFB2&center=true&vCenter=true&repeat=true&width=800&height=25&lines=CLOUD+ENGINEER+%E2%80%A2+FULL+STACK+DEVELOPER+%E2%80%A2+DATA+ENGINEER" alt="Role animation"/>
 
 </div>
 
@@ -104,11 +98,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-flat-square&logo=python&logoColor=000000&labelColor=050505"/>
-<img src="https://img.shields.io/badge/SQL-B026FF?style=for-the-flat-square&logo=postgresql&logoColor=ffffff&labelColor=050505"/>
-<img src="https://img.shields.io/badge/AWS-FFB000?style=for-the-flat-square&logo=amazonaws&logoColor=000000&labelColor=050505"/>
-<img src="https://img.shields.io/badge/LINUX-00FF41?style=for-the-flat-square&logo=linux&logoColor=000000&labelColor=050505"/>
-<img src="https://img.shields.io/badge/AUTOMATION-FF007F?style=for-the-flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/PYTHON-39FF14?style=for-the-flat-square&logo=python&logoColor=0B1F14&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/SQL-7CFFB2?style=for-the-flat-square&logo=postgresql&logoColor=0B1F14&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/AWS-52FF9A?style=for-the-flat-square&logo=amazonaws&logoColor=0B1F14&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/LINUX-39FF14?style=for-the-flat-square&logo=linux&logoColor=0B1F14&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/AUTOMATION-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
 
 </div>
 
@@ -161,11 +155,186 @@ AUTOMATION     [ ACTIVE ]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=600&pause=120&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=25&lines=%5B%2B%5D+SCANNING_TECH_STACK...;%5B%2B%5D+LOADING_CLOUD_MODULE...;%5B%2B%5D+LOADING_DATA_MODULE...;%5B%2B%5D+LOADING_AUTOMATION_MODULE...;%5B%2B%5D+ALL_MODULES_READY" alt="Module loader"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=12&duration=600&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=25&lines=%5B%2B%5D+SCANNING_TECH_STACK...;%5B%2B%5D+LOADING_CLOUD_MODULE...;%5B%2B%5D+LOADING_DATA_MODULE...;%5B%2B%5D+LOADING_AUTOMATION_MODULE...;%5B%2B%5D+ALL_MODULES_READY" alt="Module loader"/>
 
 </div>
 
-# `01 // TECH STACK`
+# `01 // THE ENGINEERING STORY`
+
+> **I don't just write code. I build systems that move data, execute work, recover from failure, and keep running.**
+
+```text
+┌─[ THE STORY ]─────────────────────────────────────────────────────┐
+│                                                                   │
+│ 01  START WITH A PROBLEM                                          │
+│     ↓                                                             │
+│     Understand the business flow before writing the solution.     │
+│                                                                   │
+│ 02  TURN MANUAL WORK INTO A SYSTEM                                │
+│     ↓                                                             │
+│     Python + SQL + APIs + automation replace repetitive work.     │
+│                                                                   │
+│ 03  MAKE DATA TRUSTWORTHY                                         │
+│     ↓                                                             │
+│     Validate → transform → store → verify → report.               │
+│                                                                   │
+│ 04  MOVE THE SYSTEM TO CLOUD                                     │
+│     ↓                                                             │
+│     AWS compute + storage + Linux + Docker create repeatable ops. │
+│                                                                   │
+│ 05  OBSERVE EVERYTHING                                            │
+│     ↓                                                             │
+│     Logs, status checks, monitoring and alerts reveal reality.    │
+│                                                                   │
+│ 06  SCALE THE ENGINE                                              │
+│     ↓                                                             │
+│     Containers, workload management and orchestration reduce     │
+│     manual infrastructure work.                                  │
+│                                                                   │
+│ 07  KEEP IMPROVING                                                 │
+│                                                                   │
+│     BUILD → AUTOMATE → VALIDATE → DEPLOY → MONITOR → OPTIMIZE    │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+### `THE BUILD PHILOSOPHY`
+
+```text
+MANUAL PROCESS
+      │
+      ▼
+UNDERSTAND THE FLOW
+      │
+      ▼
+WRITE THE FIRST VERSION
+      │
+      ▼
+ADD VALIDATION
+      │
+      ▼
+ADD LOGGING
+      │
+      ▼
+AUTOMATE THE REPETITION
+      │
+      ▼
+MOVE TO CLOUD
+      │
+      ▼
+CONTAINERIZE
+      │
+      ▼
+MONITOR
+      │
+      ▼
+SCALE
+```
+
+---
+
+# `02 // DATA ENGINEERING STORY`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BDATA+INGESTION%5D+%3E%3E+%5BVALIDATION%5D+%3E%3E+%5BTRANSFORMATION%5D;%5BTRANSFORMATION%5D+%3E%3E+%5BLOAD%5D+%3E%3E+%5BQUALITY%5D;%5BQUALITY%5D+%3E%3E+%5BREPORTING%5D+%3E%3E+%5BDECISION%5D" alt="Data engineering pipeline"/>
+
+</div>
+
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│                       DATA ENGINEERING FLOW                       │
+├───────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│ SOURCE                                                            │
+│   │                                                               │
+│   ├── APIs                                                        │
+│   ├── Websites                                                    │
+│   ├── CSV / Files                                                 │
+│   ├── SQL Databases                                               │
+│   └── Application Events                                          │
+│   │                                                               │
+│   ▼                                                               │
+│ EXTRACT                                                           │
+│   │                                                               │
+│   ▼                                                               │
+│ VALIDATE                                                          │
+│   │  schema / type / null / duplicate / row-count checks         │
+│   ▼                                                               │
+│ TRANSFORM                                                         │
+│   │  clean / normalize / map / enrich / aggregate                │
+│   ▼                                                               │
+│ LOAD                                                              │
+│   │  MySQL / PostgreSQL / MongoDB / S3                            │
+│   ▼                                                               │
+│ VERIFY                                                            │
+│   │  reconciliation / status / quality gates                      │
+│   ▼                                                               │
+│ REPORT                                                            │
+│   │                                                               │
+│   ▼                                                               │
+│ BUSINESS OUTPUT                                                   │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+### `DATA ENGINEERING PRINCIPLES`
+
+```text
+DATA QUALITY     → Never trust raw input blindly.
+TRACEABILITY     → Know where every record came from.
+IDEMPOTENCY      → Re-running should not corrupt the result.
+VALIDATION       → Fail early when data is wrong.
+OBSERVABILITY    → Logs should explain what happened.
+REPROCESSING     → Failed work should be recoverable.
+AUTOMATION       → Repetition belongs in the system, not in a person.
+```
+
+---
+
+# `03 // CLOUD ENGINEERING STORY`
+
+```text
+┌─[ FROM SCRIPT TO CLOUD SYSTEM ]───────────────────────────────────┐
+│                                                                   │
+│ LOCAL SCRIPT                                                       │
+│     ↓                                                             │
+│ SERVER                                                             │
+│     ↓                                                             │
+│ AWS EC2                                                            │
+│     ↓                                                             │
+│ S3 / DATABASE                                                      │
+│     ↓                                                             │
+│ DOCKER CONTAINERS                                                  │
+│     ↓                                                             │
+│ LOGGING + MONITORING                                               │
+│     ↓                                                             │
+│ WORKLOAD MANAGEMENT                                                │
+│     ↓                                                             │
+│ ORCHESTRATION                                                      │
+│     ↓                                                             │
+│ SCALABLE CLOUD PLATFORM                                            │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+### `CLOUD MINDSET`
+
+```text
+COMPUTE       → Where does the workload run?
+STORAGE       → Where does the data live?
+NETWORK       → How do services communicate?
+CONTAINER     → How do we package the workload?
+SCHEDULING    → When should it run?
+OBSERVABILITY → What is the system doing?
+RECOVERY      → What happens when it fails?
+SCALING       → What happens when workload increases?
+COST          → Can the same workload run more efficiently?
+```
+
+---
+
+# `04 // TECH STACK`
 
 <table>
 <tr>
@@ -250,7 +419,7 @@ Tailwind CSS
 
 ---
 
-# `02 // SYSTEM ARCHITECTURE`
+# `05 // SYSTEM ARCHITECTURE`
 
 <div align="center">
 
@@ -280,7 +449,7 @@ Tailwind CSS
 
 ---
 
-# `03 // CORE COMPETENCIES`
+# `06 // CORE COMPETENCIES`
 
 <table>
 <tr>
@@ -331,11 +500,11 @@ Tailwind CSS
 
 ---
 
-# `04 // AUTOMATION LAB`
+# `07 // AUTOMATION LAB`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=550&pause=120&color=FFB000&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BCRON%5D+TRIGGER+%3E%3E+%5BPYTHON%5D+EXECUTE;%5BDATA%5D+PROCESS+%3E%3E+%5BVALIDATE%5D+CHECK;%5BLOG%5D+WRITE+%3E%3E+%5BMONITOR%5D+WATCH;%5BREPORT%5D+GENERATE+%3E%3E+%5BAUTOMATION%5D+COMPLETE" alt="Automation pipeline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=550&pause=120&color=7CFFB2&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BTRIGGER%5D+%3E%3E+%5BEXECUTE%5D+%3E%3E+%5BVALIDATE%5D;%5BLOG%5D+%3E%3E+%5BMONITOR%5D+%3E%3E+%5BREPORT%5D;%5BAUTOMATION%5D+%3E%3E+%5BNO_MANUAL_REPETITION%5D" alt="Automation pipeline"/>
 
 </div>
 
@@ -369,7 +538,7 @@ Tailwind CSS
 
 ---
 
-# `05 // DATA QUALITY GATE`
+# `08 // DATA QUALITY GATE`
 
 <div align="center">
 
@@ -420,11 +589,11 @@ ELSE:
 
 ---
 
-# `06 // PROJECT VAULT`
+# `09 // PROJECT VAULT`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=B026FF&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+OPENING_PROJECT_VAULT...;%3E+SCANNING_REPOSITORIES...;%3E+PROJECTS_FOUND...;%3E+ACCESS_GRANTED" alt="Project vault"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+OPENING_PROJECT_VAULT...;%3E+SCANNING_REPOSITORIES...;%3E+PROJECTS_FOUND...;%3E+ACCESS_GRANTED" alt="Project vault"/>
 
 </div>
 
@@ -455,7 +624,7 @@ ELSE:
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M/hero_learning-platform">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 </div>
@@ -483,7 +652,7 @@ ELSE:
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M/hr-project">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-B026FF?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 </div>
@@ -513,7 +682,7 @@ ELSE:
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M/Portfolio">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-52FF9A?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 </div>
@@ -539,7 +708,7 @@ ELSE:
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M/my-portfolio">
-<img src="https://img.shields.io/badge/OPEN_REPOSITORY-FF007F?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-39FF14?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 </div>
@@ -552,14 +721,14 @@ ELSE:
 <div align="center">
 
 <a href="https://github.com/Dinesh-babu-M?tab=repositories">
-<img src="https://img.shields.io/badge/>>>_VIEW_ALL_PROJECTS_ON_GITHUB_<<<-00F7FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/>>>_VIEW_ALL_PROJECTS_ON_GITHUB_<<<-7CFFB2?style=for-the-badge&labelColor=0B1F14"/>
 </a>
 
 </div>
 
 ---
 
-# `07 // CLOUD + DEVOPS`
+# `10 // CLOUD + DEVOPS`
 
 <table>
 <tr>
@@ -603,16 +772,16 @@ ELSE:
 
 ---
 
-# `08 // ENGINEERING MINDSET`
+# `11 // ENGINEERING MINDSET`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01_ANALYZE-00F7FF?style=for-the-flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/02_DESIGN-B026FF?style=for-the-flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/03_BUILD-00FF41?style=for-the-flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/04_AUTOMATE-FFB000?style=for-the-flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/05_DEPLOY-FF007F?style=for-the-flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/06_MONITOR-00F7FF?style=for-the-flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/01_ANALYZE-39FF14?style=for-the-flat-square&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/02_DESIGN-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/03_BUILD-52FF9A?style=for-the-flat-square&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/04_AUTOMATE-39FF14?style=for-the-flat-square&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/05_DEPLOY-7CFFB2?style=for-the-flat-square&labelColor=0B1F14"/>
+<img src="https://img.shields.io/badge/06_MONITOR-52FF9A?style=for-the-flat-square&labelColor=0B1F14"/>
 
 ```text
 PROBLEM
@@ -644,13 +813,13 @@ OPTIMIZE
    └──────────────► REPEAT
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=600&pause=150&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+ANALYZE_THE_PROBLEM...;%3E+DESIGN_THE_WORKFLOW...;%3E+BUILD_THE_SOLUTION...;%3E+AUTOMATE_THE_REPETITION...;%3E+VALIDATE_THE_OUTPUT...;%3E+MONITOR_THE_SYSTEM...;%3E+OPTIMIZE_AND_REPEAT..." alt="Engineering mindset animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=600&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%3E+ANALYZE_THE_PROBLEM...;%3E+DESIGN_THE_WORKFLOW...;%3E+BUILD_THE_SOLUTION...;%3E+AUTOMATE_THE_REPETITION...;%3E+VALIDATE_THE_OUTPUT...;%3E+MONITOR_THE_SYSTEM...;%3E+OPTIMIZE_AND_REPEAT..." alt="Engineering mindset animation"/>
 
 </div>
 
 ---
 
-# `09 // ENGINEERING TOOLBOX`
+# `12 // ENGINEERING TOOLBOX`
 
 <div align="center">
 
@@ -686,7 +855,7 @@ OPTIMIZE
 
 ---
 
-# `10 // PRODUCTION WORKFLOW`
+# `13 // PRODUCTION WORKFLOW`
 
 <div align="center">
 
@@ -716,13 +885,13 @@ OPTIMIZE
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=550&pause=120&color=00FF41&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%3E+EXTRACT;%3E+VALIDATE;%3E+TRANSFORM;%3E+LOAD;%3E+AUTOMATE;%3E+DEPLOY;%3E+MONITOR;%3E+REPORT" alt="Production animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=550&pause=120&color=39FF14&center=true&vCenter=true&repeat=true&width=850&height=30&lines=%3E+EXTRACT;%3E+VALIDATE;%3E+TRANSFORM;%3E+LOAD;%3E+AUTOMATE;%3E+DEPLOY;%3E+MONITOR;%3E+REPORT" alt="Production animation"/>
 
 </div>
 
 ---
 
-# `11 // PROBLEM SOLVING PROTOCOL`
+# `14 // PROBLEM SOLVING PROTOCOL`
 
 ```text
 ┌───────────────────────────────────────────────────────────────────┐
@@ -755,11 +924,85 @@ REPEATABILITY     > MANUAL WORK
 
 ---
 
-# `12 // CURRENT DIRECTIVE`
+# `15 // WHAT I BUILD`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `DATA SYSTEMS`
+
+```text
+▸ ETL pipelines
+▸ Data validation
+▸ SQL workflows
+▸ File processing
+▸ Data reconciliation
+▸ Reporting systems
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `CLOUD SYSTEMS`
+
+```text
+▸ AWS workloads
+▸ EC2 automation
+▸ S3 delivery
+▸ Linux operations
+▸ Docker workloads
+▸ Cloud monitoring
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `SOFTWARE`
+
+```text
+▸ Python automation
+▸ REST APIs
+▸ React interfaces
+▸ Laravel apps
+▸ Database systems
+▸ Internal tools
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# `16 // SYSTEM DESIGN PRINCIPLES`
+
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│                        DESIGN CHECKLIST                           │
+├───────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│ [✓] CAN IT RUN WITHOUT MANUAL INTERVENTION?                       │
+│ [✓] CAN WE VALIDATE THE INPUT?                                    │
+│ [✓] CAN WE SEE WHAT HAPPENED?                                     │
+│ [✓] CAN WE RECOVER FROM FAILURE?                                  │
+│ [✓] CAN WE REPROCESS SAFELY?                                      │
+│ [✓] CAN WE SCALE THE WORKLOAD?                                    │
+│ [✓] CAN WE REDUCE OPERATING COST?                                 │
+│ [✓] CAN ANOTHER ENGINEER UNDERSTAND IT?                           │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `17 // CURRENT DIRECTIVE`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=700&pause=150&color=FFB000&center=true&vCenter=true&repeat=true&width=900&height=34&lines=%5B+NEXT_LEVEL+%5D;%5BCLOUD%5D+%3E%3E+SCALE;%5BDATA%5D+%3E%3E+RELIABILITY;%5BAUTOMATION%5D+%3E%3E+ZERO_REPETITION;%5BDEVOPS%5D+%3E%3E+OBSERVABILITY" alt="Current directive"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=700&pause=150&color=7CFFB2&center=true&vCenter=true&repeat=true&width=900&height=34&lines=%5B+NEXT_LEVEL+%5D;%5BCLOUD%5D+%3E%3E+SCALE;%5BDATA%5D+%3E%3E+RELIABILITY;%5BAUTOMATION%5D+%3E%3E+ZERO_REPETITION;%5BDEVOPS%5D+%3E%3E+OBSERVABILITY" alt="Current directive"/>
 
 ```text
 ┌───────────────────────────────────────────────────────────────────┐
@@ -781,45 +1024,42 @@ REPEATABILITY     > MANUAL WORK
 
 ---
 
-# `13 // SECURE CHANNEL`
+# `18 // SECURE CHANNEL`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=FF007F&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BINCOMING_CONNECTION...%5D;%5BCHANNEL_SECURED%5D;%5BIDENTITY_VERIFIED%5D;%5BREADY_FOR_COLLABORATION%5D" alt="Secure channel"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=32&lines=%5BINCOMING_CONNECTION...%5D;%5BCHANNEL_SECURED%5D;%5BIDENTITY_VERIFIED%5D;%5BREADY_FOR_COLLABORATION%5D" alt="Secure channel"/>
 
 ```text
 ┌───────────────────────────────────────────────────────────────────┐
 │ USER      :: DINESH BABU M                                        │
 │ ROLE      :: CLOUD / FULL STACK / DATA                            │
 │ EMAIL     :: mpsdinesh1221@gmail.com                              │
-│ GITHUB    :: Dinesh-babu-M                                       │
+│ GITHUB    :: Dinesh-babu-M                                        │
 │ STATUS    :: ● READY                                              │
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 <a href="mailto:mpsdinesh1221@gmail.com">
-<img src="https://img.shields.io/badge/SEND_EMAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SEND_EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 <a href="https://github.com/Dinesh-babu-M">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=050505"/>
+<img src="https://img.shields.io/badge/GITHUB-7CFFB2?style=for-the-badge&logo=github&logoColor=0B1F14&labelColor=0B1F14"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=650&pause=150&color=00FF41&center=true&vCenter=true&repeat=true&width=800&height=36&lines=%5BBUILD%5D;%5BAUTOMATE%5D;%5BDEPLOY%5D;%5BMONITOR%5D;%5BOPTIMIZE%5D;%5BREPEAT%5D" alt="Engineering cycle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=650&pause=150&color=39FF14&center=true&vCenter=true&repeat=true&width=800&height=36&lines=%5BBUILD%5D;%5BAUTOMATE%5D;%5BDEPLOY%5D;%5BMONITOR%5D;%5BOPTIMIZE%5D;%5BREPEAT%5D" alt="Engineering cycle"/>
 
 ### `● SYSTEM ONLINE // CHANNEL OPEN // LET'S BUILD`
 
 </div>
 
 <!--
-DESIGN NOTES
-- Dark terminal / cyber-ops visual language.
-- Neon cyan / green / purple / amber / magenta palette.
-- No manually inserted "Popular repositories", "30 contributions in the last year",
-  or "Contribution activity" blocks. GitHub renders those profile-native sections
-  automatically below the README.
-- Education and language modules intentionally omitted to keep the profile focused
-  on engineering, projects, cloud, data, automation and operations.
+PROFILE DESIGN
+- Light green hacker / terminal aesthetic.
+- Uses green-on-dark accents instead of white-heavy buttons.
+- Storytelling sections explain the progression from problem → system → data → cloud → automation → scale.
+- GitHub-native contribution activity and popular repository sections are intentionally not duplicated.
 -->
